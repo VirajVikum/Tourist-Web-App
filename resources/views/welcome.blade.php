@@ -42,6 +42,9 @@
 
 
         @livewire('home.home-hero')
+        @livewire('home.date-time-panel')
+
+        
     </div>
 
     <!-- Footer -->
