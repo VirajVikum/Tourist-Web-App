@@ -1,9 +1,15 @@
 <div class="bg-white py-4 shadow-md">
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-        <div class="flex items-center space-x-6">
+        <div class="flex items-center space-x-12">
 
             <!-- Sri Lanka Logo -->
-            <img src="/images/sri-lanka-logo.png" alt="Sri Lanka" class="w-18 h-18 object-cover">
+            <div class="flex">
+                <img src="/images/sri-lanka-logo.png" alt="Sri Lanka" class="w-18 h-18 object-cover">
+                <div class="flex flex-col items-center">
+                    <div class="text-lg font-semibold font-serif pt-3">Sri</div>
+                <div class="text-lg font-semibold font-serif pt-1">Lanka</div>
+                </div>
+            </div>
 
             <!-- Real-time Clock -->
             <div class="time flex flex-col text-gray-800 items-center">
