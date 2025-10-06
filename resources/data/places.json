@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Yala National Park",
+        "description": "A premier safari destination with leopards and elephants.",
+        "image": "/images/tours/yala.jpg",
+        "type": "safari"
+    },
+    {
+        "name": "Colombo",
+        "description": "The vibrant capital of Sri Lanka, known for its bustling markets and colonial architecture.",
+        "image": "/images/tours/colombo.jpg",
+        "type": "city"
+    },
+    {
+        "name": "Wilpattu National Park",
+        "description": "Known for its leopard population and scenic lakes.",
+        "image": "/images/tours/wilpattu.jpg",
+        "type": "safari"
+    },
+    {
+        "name": "Kandy",
+        "description": "Home to the Temple of the Tooth, a sacred Buddhist site.",
+        "image": "/images/tours/kandy.jpg",
+        "type": "cultural"
+    }
+]

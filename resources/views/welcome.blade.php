@@ -21,8 +21,9 @@
                 <div class="flex justify-between items-center h-16">
                     <!-- Logo -->
                     <div class="flex-shrink-0">
-                        <a href="#" class="text-xl font-bold"
-                            :class="scrollY > 50 ? 'text-gray-800' : 'text-white'">MyLogo</a>
+                        {{-- <a href="#" class="text-xl font-bold"
+                            :class="scrollY > 50 ? 'text-gray-800' : 'text-white'">MyLogo</a> --}}
+                            <a href="#"><img src="/images/sri-lanka-logo.png" alt="Sri Lanka" class="w-16 h-16 object-cover"></a>
                     </div>
 
                     <!-- Navigation Links -->
@@ -43,6 +44,7 @@
 
         @livewire('home.home-hero')
         @livewire('home.date-time-panel')
+        @livewire('home.popular-tours')
 
         
     </div>
