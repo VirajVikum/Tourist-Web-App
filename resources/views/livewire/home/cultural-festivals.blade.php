@@ -3,7 +3,7 @@
         <div class="max-w-7xl mx-auto px-6 lg:px-8">
             <!-- Title -->
             <div class="text-center mb-12">
-                <h2 class="text-4xl md:text-5xl font-bold text-orange-700">
+                <h2 class="text-3xl md:text-3xl font-bold text-orange-700">
                     Cultural Festivals of Sri Lanka
                 </h2>
                 <p class="text-gray-600 mt-3 text-lg">

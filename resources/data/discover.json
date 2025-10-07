@@ -1,0 +1,47 @@
+[
+    {
+        "key": "geography",
+        "title": "Geography",
+        "description": "The Pearl of the Indian Ocean earns its reputation from its stunning and compact geographical diversity. This teardrop-shaped island centers around the Central Highlands, a misty, cool mountainous region famous for producing world-class Ceylon Tea. This interior spine rapidly descends into golden coastal plains, offering travelers a quick transition from chilling mountain hikes to sun-drenched tropical beaches in a matter of hours. This structure creates distinct microclimates—the lush, wet southwestern zone contrasting sharply with the drier, ancient-focused plains of the north and east.",
+        "full": "Sri Lanka has a diverse geography including mountains, plains, rivers, and a beautiful coastline. The central highlands feature scenic landscapes, while the coastal regions are famous for beaches and lagoons...",
+        "images": [
+            "/images/discover/geography1.jpg",
+            "/images/discover/geography2.jpg",
+            "/images/discover/geography3.jpg"
+        ]
+    },
+    {
+        "key": "people",
+        "title": "People",
+        "description": "Sri Lanka is defined by its deep sense of community and renowned hospitality, with locals famous for their genuine warmth and ever-present smiles. The island is a rich tapestry of ethnicities and religions, primarily composed of the Sinhalese (predominantly Theravada Buddhist) and the Tamils (mostly Hindu), alongside significant Moor and Burgher communities. This harmonious mosaic has resulted in a unique blend of traditions, languages, and vibrant local cuisine, ensuring a welcoming and deeply human travel experience for every visitor.",
+        "full": "Sri Lanka is home to a multi-ethnic population including Sinhalese, Tamils, Moors, and others. People celebrate festivals, maintain traditions, and engage in vibrant cultural practices across the island...",
+        "images": [
+            "/images/discover/people1.jpg",
+            "/images/discover/people2.jpg",
+            "/images/discover/people3.jpg"
+        ]
+
+    },
+    {
+        "key": "culture",
+        "title": "Culture",
+        "description": "Sri Lankan culture is a vibrant fusion of ancient history and deep religious devotion, largely centered on its Buddhist heritage dating back over 2,500 years. This history is visible everywhere, from the iconic rock fortress of Sigiriya to the sacred cities that form the island's Cultural Triangle. Cultural life peaks during spectacular festivals, most notably the dazzling Kandy Esala Perahera, which transforms the streets with elephants and dancers. The daily rhythm is often punctuated by the ritual of enjoying strong Ceylon Tea and the island's complex national dish, Rice and Curry.",
+        "full": "Sri Lankan culture is a rich mix of arts, crafts, music, dance, and religious practices. From traditional Kandyan dances to temple rituals, culture is deeply embedded in everyday life...",
+        "images": [
+            "/images/discover/culture1.jpg",
+            "/images/discover/culture2.jpg",
+            "/images/discover/culture3.jpg"
+        ]
+    },
+    {
+        "key": "environment",
+        "title": "Environment",
+        "description": "Despite its modest size, Sri Lanka is classified as a global biodiversity hotspot, offering unparalleled access to wild, natural landscapes. The national parks are famous for their dense populations of Asian Elephants and high concentrations of the elusive Leopard, making it a safari destination rivaling Africa. Moving offshore, the island’s southern waters are one of the world's most reliable spots for observing the majestic Blue Whale, completing the astonishing diversity that makes Sri Lanka an essential destination for nature lovers.",
+        "full": "Sri Lanka has a remarkable natural environment with rainforests, national parks, and biodiversity hotspots. Conservation efforts protect elephants, leopards, and endemic flora and fauna across the island...",
+        "images": [
+            "/images/discover/environment1.jpg",
+            "/images/discover/environment2.jpg",
+            "/images/discover/environment3.jpg"
+        ]
+    }
+]
