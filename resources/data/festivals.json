@@ -1,0 +1,41 @@
+[
+    {
+        "name": "Esala Perahera",
+        "description": "A grand Buddhist procession in Kandy, featuring beautifully decorated elephants, traditional dancers, and drummers to honor the Sacred Tooth Relic.",
+        "month": "August",
+        "location": "Kandy",
+        "images": [
+            "/images/festivals/esala1.jpg",
+            "/images/festivals/esala2.jpg",
+            "/images/festivals/esala3.jpg",
+            "/images/festivals/esala4.jpg",
+            "/images/festivals/esala5.jpg"
+        ]
+    },
+    {
+        "name": "Vesak and Poson Festivals",
+        "description": "Marking the birth, enlightenment, and passing away of Lord Buddha. Streets and temples are adorned with colorful lanterns and lights.",
+        "month": "May / June",
+        "location": "Nationwide",
+        "images": [
+            "/images/festivals/vesak1.jpg",
+            "/images/festivals/vesak2.jpg",
+            "/images/festivals/vesak3.jpg",
+            "/images/festivals/vesak4.jpg",
+            "/images/festivals/vesak5.jpg"
+        ]
+    },
+    {
+        "name": "Sinhala and Hindu New Year (Avurudu)",
+        "description": "A joyous festival symbolizing the traditional New Year celebrated by Sinhalese and Tamil communities with games, food, and rituals.",
+        "month": "April",
+        "location": "Nationwide",
+        "images": [
+            "/images/festivals/avurudu(1).jpg",
+            "/images/festivals/avurudu(2).jpg",
+            "/images/festivals/avurudu(3).jpg",
+            "/images/festivals/avurudu(4).jpg",
+            "/images/festivals/avurudu(5).jpg"
+        ]
+    }
+]
