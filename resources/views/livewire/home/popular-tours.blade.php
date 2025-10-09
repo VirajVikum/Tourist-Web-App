@@ -12,20 +12,46 @@
 
         <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-8">
             @foreach ($places as $place)
-                <div class="bg-white rounded-xl shadow-lg overflow-hidden hover:-translate-y-1 transition transform duration-300">
-                    <img src="{{ $place['image'] }}" alt="{{ $place['name'] }}" class="w-full h-48 object-cover">
+                <div
+    class="bg-white rounded-xl shadow-lg overflow-hidden transform transition-all duration-500 hover:-translate-y-2 hover:shadow-2xl group">
+    
+    <!-- Image with animation -->
+    <div class="relative overflow-hidden">
+        <img src="{{ $place['image'] }}" alt="{{ $place['name'] }}"
+            class="w-full h-48 object-cover transform transition-transform duration-700 group-hover:scale-110 group-hover:rotate-1">
 
-                    <div class="p-5">
-                        <h3 class="text-xl font-semibold mb-2">{{ $place['name'] }}</h3>
-                        <p class="text-gray-600 text-sm mb-4">
-                            {{ $place['description'] }}
-                        </p>
+        <!-- Gradient overlay appears on hover -->
+        <div
+            class="absolute inset-0 bg-gradient-to-t from-black/40 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500">
+        </div>
 
-                        <span class="inline-block bg-blue-100 text-blue-600 text-xs font-medium px-3 py-1 rounded-full">
-                            {{ ucfirst($place['type']) }}
-                        </span>
-                    </div>
-                </div>
+        <!-- Subtle floating tag -->
+        <span
+            class="absolute top-3 left-3 bg-blue-600/80 text-white text-xs font-semibold px-3 py-1 rounded-full backdrop-blur-sm">
+            {{ ucfirst($place['type']) }}
+        </span>
+    </div>
+
+    <!-- Text content -->
+    <div class="p-5">
+        <h3 class="text-xl font-semibold text-gray-800 group-hover:text-blue-600 transition-colors duration-300 mb-2">
+            {{ $place['name'] }}
+        </h3>
+        <p class="text-gray-600 text-sm mb-4">
+            {{ $place['description'] }}
+        </p>
+
+        <a href="#"
+            class="inline-flex items-center text-blue-600 font-medium group-hover:text-blue-700 transition duration-300">
+            Explore
+            <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4 ml-1 group-hover:translate-x-1 transition-transform"
+                fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" />
+            </svg>
+        </a>
+    </div>
+</div>
+
             @endforeach
         </div>
     </div>

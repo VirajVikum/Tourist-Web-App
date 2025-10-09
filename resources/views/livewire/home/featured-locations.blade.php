@@ -34,6 +34,8 @@
                 <!-- Cards Container -->
                 <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-8">
                     @foreach ($locations as $location)
+                    <div>
+                        <a href="{{ route('place.details', $location['slug']) }}" wire:navigate>
                         <div
                             class="group relative bg-white rounded-3xl overflow-hidden shadow-lg hover:shadow-2xl hover:-translate-y-2 transition-all duration-500 cursor-pointer">
                             
@@ -56,15 +58,14 @@
                                 <p class="text-gray-600 text-sm mb-4 line-clamp-3">
                                     {{ $location['description'] }}
                                 </p>
-                                <a href="#"
-                                    class="inline-flex items-center text-orange-600 font-semibold hover:text-orange-700 transition">
+                                <div class="inline-flex items-center text-orange-600 font-semibold hover:text-orange-700 transition">
                                     Explore
                                     <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4 ml-1"
                                         fill="none" viewBox="0 0 24 24" stroke="currentColor">
                                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
                                             d="M9 5l7 7-7 7" />
                                     </svg>
-                                </a>
+                                </div>
                             </div>
 
                             <!-- Glow hover effect -->
@@ -72,6 +73,8 @@
                                 class="absolute inset-0 bg-gradient-to-r from-orange-400 to-yellow-400 opacity-0 group-hover:opacity-10 transition-opacity duration-500 rounded-3xl">
                             </div>
                         </div>
+                    </a>
+                    </div>
                     @endforeach
                 </div>
             </div>

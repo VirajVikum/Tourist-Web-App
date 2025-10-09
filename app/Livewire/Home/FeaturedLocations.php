@@ -17,7 +17,12 @@ class FeaturedLocations extends Component
         $grouped = collect($locations)->groupBy('type');
 
         // Take only the first 4 per type
-        $this->locationsByType = $grouped->map(fn($items) => $items->take(4));
+        // $this->locationsByType = $grouped->map(fn($items) => $items->take(4));
+        $this->locationsByType = collect($locations)
+            ->groupBy('type')
+            ->map(fn($group) => $group->take(4))
+            ->toArray();
+
     }
 
     public function render()
