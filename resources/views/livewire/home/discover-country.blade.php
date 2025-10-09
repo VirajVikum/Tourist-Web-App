@@ -21,7 +21,7 @@
                                 <img 
                                     src="{{ $img }}" 
                                     alt="{{ $topic['title'] }}" 
-                                    class="w-40 h-40 md:w-48 md:h-48 object-cover rounded-2xl shadow-lg border-4 border-white transition-transform duration-500 group-hover:scale-105"
+                                    class="w-50 h-50 md:w-48 md:h-48 object-cover rounded-full shadow-lg border-4 border-white transition-transform duration-500 group-hover:scale-105"
                                 >
                                 <!-- Hover effect: bring to front -->
                                 <style>
