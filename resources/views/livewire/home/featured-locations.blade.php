@@ -1,4 +1,4 @@
-<div>
+<div class="pt-32">
 <section class="py-20 bg-gradient-to-b from-white via-orange-100 to-white relative overflow-hidden">
     <div class="max-w-7xl mx-auto px-6">
         <!-- Title -->
@@ -22,7 +22,7 @@
                     <h3 class="text-3xl font-semibold text-orange-700 capitalize tracking-wide">
                         {{ ucfirst($type) }} Adventures
                     </h3>
-                    <a href="#" class="text-orange-600 hover:text-orange-700 font-semibold flex items-center gap-1 transition">
+                    <a href="{{ route('locations.viewAll', $type) }}"  class="text-orange-600 hover:text-orange-700 font-semibold flex items-center gap-1 transition">
                         View All
                         <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" fill="none"
                             viewBox="0 0 24 24" stroke="currentColor">

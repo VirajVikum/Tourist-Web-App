@@ -17,7 +17,11 @@
         <nav 
     x-data="{ scrollY: 0 }"
     x-init="window.addEventListener('scroll', () => { scrollY = window.scrollY })"
-    :class="scrollY > 50 ? 'bg-white shadow-md' : 'bg-transparent'"
+    :class="(
+        '{{ Route::currentRouteName() }}' === 'home' 
+            ? (scrollY > 50 ? 'bg-white shadow-md' : 'bg-transparent') 
+            : 'bg-white shadow-md text-accent-content'
+    )"
     class="fixed w-full z-50 transition-colors duration-500"
 >
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
@@ -30,12 +34,28 @@
             </div>
 
             <!-- Navigation Links -->
-            <div class="hidden md:flex space-x-4">
-                <a href="{{ route('home') }}" :class="scrollY > 50 ? 'text-gray-800' : 'text-white'" class="hover:text-blue-500 transition">Home</a>
-                <a href="{{ route('discover.show') }}" :class="scrollY > 50 ? 'text-gray-800' : 'text-white'" class="hover:text-blue-500 transition">Discover</a>
-                <a href="#" :class="scrollY > 50 ? 'text-gray-800' : 'text-white'" class="hover:text-blue-500 transition">About</a>
-                <a href="#" :class="scrollY > 50 ? 'text-gray-800' : 'text-white'" class="hover:text-blue-500 transition">Contact</a>
-            </div>
+            @php
+    $isHome = Route::currentRouteName() === 'home';
+@endphp
+
+<div class="hidden md:flex space-x-4">
+    <a href="{{ route('home') }}" 
+       :class="{{ $isHome ? "scrollY > 50 ? 'text-gray-800' : 'text-white'" : "'text-gray-800'" }}"
+       class="hover:text-orange-500 transition font-medium">Home</a>
+
+    <a href="{{ route('discover.show') }}" 
+       :class="{{ $isHome ? "scrollY > 50 ? 'text-gray-800' : 'text-white'" : "'text-gray-800'" }}"
+       class="hover:text-orange-500 transition font-medium">Discover</a>
+
+    <a href="#" 
+       :class="{{ $isHome ? "scrollY > 50 ? 'text-gray-800' : 'text-white'" : "'text-gray-800'" }}"
+       class="hover:text-orange-500 transition font-medium">About</a>
+
+    <a href="#" 
+       :class="{{ $isHome ? "scrollY > 50 ? 'text-gray-800' : 'text-white'" : "'text-gray-800'" }}"
+       class="hover:text-orange-500 transition font-medium">Contact</a>
+</div>
+
         </div>
     </div>
 </nav>
@@ -48,9 +68,10 @@
         @livewire('home.cultural-festivals')
         @livewire('home.discover-country') --}}
         <!-- MAIN PAGE CONTENT -->
-        <main class="">
+        <main class=" {{$isHome ? 'pt-0' : 'pt-16' }}">
             {{ $slot }}
         </main>
+        
 
         
     </div>
