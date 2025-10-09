@@ -14,39 +14,43 @@
     <div x-data="{ scrollAtTop: true }"
         x-init="window.addEventListener('scroll', () => { scrollAtTop = window.scrollY === 0 })">
 
-        <nav x-data="{ scrollY: 0 }" x-init="window.addEventListener('scroll', () => { scrollY = window.scrollY })"
-            :class="scrollY > 50 ? 'bg-white shadow-md' : 'bg-transparent'"
-            class="fixed w-full z-50 transition-colors duration-300">
-            <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-                <div class="flex justify-between items-center h-16">
-                    <!-- Logo -->
-                    <div class="flex-shrink-0">
-                        {{-- <a href="#" class="text-xl font-bold"
-                            :class="scrollY > 50 ? 'text-gray-800' : 'text-white'">MyLogo</a> --}}
-                            <a href="#"><img src="/images/sri-lanka-logo.png" alt="Sri Lanka" class="w-16 h-16 object-cover"></a>
-                    </div>
-
-                    <!-- Navigation Links -->
-                    <div class="hidden md:flex space-x-4">
-                        <a href="#" :class="scrollY > 50 ? 'text-gray-800' : 'text-white'"
-                            class="hover:text-blue-500 transition">Home</a>
-                        <a href="#" :class="scrollY > 50 ? 'text-gray-800' : 'text-white'"
-                            class="hover:text-blue-500 transition">About</a>
-                        <a href="#" :class="scrollY > 50 ? 'text-gray-800' : 'text-white'"
-                            class="hover:text-blue-500 transition">Services</a>
-                        <a href="#" :class="scrollY > 50 ? 'text-gray-800' : 'text-white'"
-                            class="hover:text-blue-500 transition">Contact</a>
-                    </div>
-                </div>
+        <nav 
+    x-data="{ scrollY: 0 }"
+    x-init="window.addEventListener('scroll', () => { scrollY = window.scrollY })"
+    :class="scrollY > 50 ? 'bg-white shadow-md' : 'bg-transparent'"
+    class="fixed w-full z-50 transition-colors duration-500"
+>
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+        <div class="flex justify-between items-center h-16">
+            <!-- Logo -->
+            <div class="flex-shrink-0">
+                <a href="{{ route('home') }}">
+                    <img src="/images/sri-lanka-logo.png" alt="Sri Lanka" class="w-16 h-16 object-cover">
+                </a>
             </div>
-        </nav>
+
+            <!-- Navigation Links -->
+            <div class="hidden md:flex space-x-4">
+                <a href="{{ route('home') }}" :class="scrollY > 50 ? 'text-gray-800' : 'text-white'" class="hover:text-blue-500 transition">Home</a>
+                <a href="{{ route('discover.show') }}" :class="scrollY > 50 ? 'text-gray-800' : 'text-white'" class="hover:text-blue-500 transition">Discover</a>
+                <a href="#" :class="scrollY > 50 ? 'text-gray-800' : 'text-white'" class="hover:text-blue-500 transition">About</a>
+                <a href="#" :class="scrollY > 50 ? 'text-gray-800' : 'text-white'" class="hover:text-blue-500 transition">Contact</a>
+            </div>
+        </div>
+    </div>
+</nav>
 
 
-        @livewire('home.home-hero')
+
+        {{-- @livewire('home.home-hero')
         @livewire('home.date-time-panel')
         @livewire('home.popular-tours')
         @livewire('home.cultural-festivals')
-        @livewire('home.discover-country')
+        @livewire('home.discover-country') --}}
+        <!-- MAIN PAGE CONTENT -->
+        <main class="">
+            {{ $slot }}
+        </main>
 
         
     </div>
