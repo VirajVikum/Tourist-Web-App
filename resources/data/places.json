@@ -1,26 +1,42 @@
 [
     {
+        "slug": "yala-national-park",
         "name": "Yala National Park",
-        "description": "A premier safari destination with leopards and elephants.",
+        "description": "A premier safari destination with leopards, elephants, and lush landscapes. Yala offers unforgettable wildlife experiences with guided jeep tours.",
         "image": "/images/tours/yala.jpg",
-        "type": "safari"
+        "type": "safari",
+        "location": "Southern Province, Sri Lanka",
+        "best_time": "February to July",
+        "highlights": ["Leopards", "Elephants", "Bird Watching", "Scenic Lakes"]
     },
     {
+        "slug": "colombo",
         "name": "Colombo",
-        "description": "The vibrant capital of Sri Lanka, known for its bustling markets and colonial architecture.",
+        "description": "The vibrant capital city known for its colonial architecture, seaside promenade, and lively markets.",
         "image": "/images/tours/colombo.jpg",
-        "type": "city"
+        "type": "city",
+        "location": "Western Province, Sri Lanka",
+        "best_time": "December to March",
+        "highlights": ["Galle Face Green", "Pettah Market", "National Museum"]
     },
     {
+        "slug": "kandy",
+        "name": "Kandy",
+        "description": "Home to the Temple of the Tooth, a sacred Buddhist site surrounded by hills and a scenic lake.",
+        "image": "/images/tours/kandy.jpg",
+        "type": "cultural",
+        "location": "Central Province, Sri Lanka",
+        "best_time": "December to April",
+        "highlights": ["Temple of the Tooth", "Kandy Lake", "Cultural Dance Shows"]
+    },
+    {
+        "slug": "wilpattu-national-park",
         "name": "Wilpattu National Park",
         "description": "Known for its leopard population and scenic lakes.",
         "image": "/images/tours/wilpattu.jpg",
-        "type": "safari"
-    },
-    {
-        "name": "Kandy",
-        "description": "Home to the Temple of the Tooth, a sacred Buddhist site.",
-        "image": "/images/tours/kandy.jpg",
-        "type": "cultural"
+        "type": "safari",
+        "location": "Central Province, Sri Lanka",
+        "best_time": "December to April",
+        "highlights": ["Temple of the Tooth", "Kandy Lake", "Cultural Dance Shows"]
     }
 ]

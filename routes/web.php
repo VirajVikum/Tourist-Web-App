@@ -1,6 +1,11 @@
 <?php
 
+use App\Livewire\Contact\Index;
 use App\Livewire\Home\DiscoverCountry;
+use App\Livewire\Home\Index as HomeIndex;
+use App\Livewire\Places\Index as PlaceIndex;
+use App\Livewire\Contact\Index as ContactIndex;
+use App\Livewire\Places\ViewAllPlaces;
 use App\Livewire\Settings\Appearance;
 use App\Livewire\Settings\Password;
 use App\Livewire\Settings\Profile;
@@ -8,9 +13,10 @@ use App\Livewire\Settings\TwoFactor;
 use Illuminate\Support\Facades\Route;
 use Laravel\Fortify\Features;
 
-Route::get('/', function () {
-    return view('welcome');
-})->name('home');
+// Route::get('/', function () {
+//     return view('welcome');
+// })->name('home');
+Route::get('/', HomeIndex::class)->name('home');
 
 Route::view('dashboard', 'dashboard')
     ->middleware(['auth', 'verified'])
@@ -37,5 +43,9 @@ Route::middleware(['auth'])->group(function () {
 
 Route::get('/discover', DiscoverCountry::class)->name('discover.show');
 Route::get('/discover/{topic}', DiscoverCountry::class)->name('discover.show');
+Route::get('/place/{slug}', PlaceIndex::class)->name('place.details');
+Route::get('/locations/{type}', ViewAllPlaces::class)->name('locations.viewAll');
+Route::get('/contact', ContactIndex::class)->name('contact');
+
 
 require __DIR__.'/auth.php';
