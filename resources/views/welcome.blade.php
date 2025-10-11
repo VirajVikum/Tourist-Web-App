@@ -51,7 +51,7 @@
        :class="{{ $isHome ? "scrollY > 50 ? 'text-gray-800' : 'text-white'" : "'text-gray-800'" }}"
        class="hover:text-orange-500 transition font-medium">About</a>
 
-    <a href="#" 
+    <a href="{{ route('contact') }}" 
        :class="{{ $isHome ? "scrollY > 50 ? 'text-gray-800' : 'text-white'" : "'text-gray-800'" }}"
        class="hover:text-orange-500 transition font-medium">Contact</a>
 </div>
