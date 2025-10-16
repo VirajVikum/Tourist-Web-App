@@ -5,6 +5,7 @@ use App\Livewire\Home\DiscoverCountry;
 use App\Livewire\Home\Index as HomeIndex;
 use App\Livewire\Places\Index as PlaceIndex;
 use App\Livewire\Contact\Index as ContactIndex;
+use App\Livewire\About\Index as AboutIndex;
 use App\Livewire\Places\ViewAllPlaces;
 use App\Livewire\Settings\Appearance;
 use App\Livewire\Settings\Password;
@@ -46,6 +47,7 @@ Route::get('/discover/{topic}', DiscoverCountry::class)->name('discover.show');
 Route::get('/place/{slug}', PlaceIndex::class)->name('place.details');
 Route::get('/locations/{type}', ViewAllPlaces::class)->name('locations.viewAll');
 Route::get('/contact', ContactIndex::class)->name('contact');
+Route::get('/about', AboutIndex::class)->name('about');
 
 
 require __DIR__.'/auth.php';
