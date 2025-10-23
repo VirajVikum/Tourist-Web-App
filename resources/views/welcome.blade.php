@@ -45,7 +45,7 @@
 
     <a href="{{ route('discover.show') }}" 
        :class="{{ $isHome ? "scrollY > 50 ? 'text-gray-800' : 'text-white'" : "'text-gray-800'" }}"
-       class="hover:text-orange-500 transition font-medium">Discover</a>
+       class="hover:text-orange-500 transition font-medium">Tours</a>
 
     <a href="{{route('about')}}" 
        :class="{{ $isHome ? "scrollY > 50 ? 'text-gray-800' : 'text-white'" : "'text-gray-800'" }}"
