@@ -1,7 +1,7 @@
 <?php
 
 use App\Livewire\Contact\Index;
-use App\Livewire\Home\DiscoverCountry;
+use App\Livewire\Discover\Index as DiscoverCountry;
 use App\Livewire\Home\Index as HomeIndex;
 use App\Livewire\Places\Index as PlaceIndex;
 use App\Livewire\Contact\Index as ContactIndex;
@@ -42,7 +42,7 @@ Route::middleware(['auth'])->group(function () {
         ->name('two-factor.show');
 });
 
-Route::get('/discover', DiscoverCountry::class)->name('discover.show');
+Route::get('/discover', DiscoverCountry::class)->name('discover');
 Route::get('/discover/{topic}', DiscoverCountry::class)->name('discover.show');
 Route::get('/place/{slug}', PlaceIndex::class)->name('place.details');
 Route::get('/locations/{type}', ViewAllPlaces::class)->name('locations.viewAll');

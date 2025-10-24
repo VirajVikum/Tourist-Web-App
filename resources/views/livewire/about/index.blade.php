@@ -74,7 +74,7 @@
     <!-- CTA -->
     <section class="bg-orange-600 py-12 text-center text-white">
         <h2 class="text-3xl font-bold mb-4">Ready for Your Next Adventure?</h2>
-        <a href="{{ route('discover.show') }}" class="bg-white text-orange-600 px-6 py-3 rounded-lg font-semibold shadow hover:bg-gray-100 transition">
+        <a href="#" class="bg-white text-orange-600 px-6 py-3 rounded-lg font-semibold shadow hover:bg-gray-100 transition">
             Discover Tours
         </a>
     </section>
