@@ -1,4 +1,4 @@
-<div class="pt-32">
+<div class="">
 <section class="py-20 bg-gradient-to-b from-white via-orange-100 to-white relative overflow-hidden">
     <div class="max-w-7xl mx-auto px-6">
         <!-- Title -->
