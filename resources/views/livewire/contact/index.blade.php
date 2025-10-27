@@ -5,15 +5,25 @@
     <div class="col-span-2 flex flex-col justify-center p-8 space-y-6 pl-20">
         <h2 class="text-3xl font-extrabold text-orange-600 mb-6">Contact Information</h2>
 
-        <div class="flex items-center gap-4 bg-white/80 backdrop-blur-lg p-4 rounded-2xl shadow-lg hover:shadow-2xl transition transform hover:-translate-y-1">
-            <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 text-orange-500" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 5h2l.4 2M7 5h10l1 5H6l1-5zm-4 5h20v2H3V10zm0 4h20v2H3v-2zm0 4h20v2H3v-2z"/>
-            </svg>
-            <div>
-                <p class="font-semibold text-gray-800">Phone</p>
-                <p class="text-gray-600">+94 77 123 4567</p>
-            </div>
-        </div>
+        <a href="https://wa.me/94763464670?text=How%20can%20I%20travel%20in%20Sri%20Lanka"
+   target="_blank"
+   rel="noopener noreferrer"
+   class="flex items-center gap-4 bg-white/80 backdrop-blur-lg p-4 rounded-2xl shadow-lg hover:shadow-2xl transition transform hover:-translate-y-1">
+
+    <!-- WhatsApp Icon -->
+    <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 text-green-500" fill="currentColor" viewBox="0 0 24 24">
+        <path d="M12.04 2C6.57 2 2.12 6.45 2.12 11.92c0 2.11.55 4.16 1.6 5.96L2 22l4.27-1.67a10.02 10.02 0 0 0 5.77 1.78h.01c5.47 0 9.92-4.45 9.92-9.92C21.96 6.45 17.51 2 12.04 2zm0 18.1h-.01a8.13 8.13 0 0 1-4.13-1.13l-.3-.18-2.53.99.95-2.6-.2-.33a8.12 8.12 0 0 1-1.24-4.34c0-4.49 3.65-8.14 8.14-8.14a8.13 8.13 0 0 1 8.14 8.14c0 4.49-3.65 8.14-8.14 8.14z"/>
+        <path d="M16.71 14.29c-.27-.14-1.57-.77-1.81-.85-.24-.09-.41-.14-.58.14-.17.27-.67.84-.82 1.01-.14.17-.3.19-.56.07-.27-.14-1.14-.42-2.18-1.34-.8-.71-1.34-1.58-1.5-1.85-.16-.27-.02-.42.12-.56.12-.12.27-.31.4-.47.13-.16.17-.27.25-.45.08-.17.04-.32-.02-.46-.06-.14-.58-1.4-.79-1.93-.21-.5-.42-.44-.58-.45l-.49-.01c-.17 0-.46.07-.7.34-.24.27-.92.9-.92 2.2s.95 2.55 1.09 2.73c.14.17 1.86 2.84 4.53 3.98.63.27 1.12.43 1.5.55.63.2 1.2.17 1.65.1.5-.07 1.57-.64 1.8-1.26.22-.63.22-1.17.15-1.26-.06-.09-.23-.14-.5-.27z"/>
+    </svg>
+
+    <div>
+        <p class="font-semibold text-gray-800">WhatsApp</p>
+        <p class="text-gray-600">+94 76 346 4670</p>
+    </div>
+</a>
+
+
+
 
         <div class="flex items-center gap-4 bg-white/80 backdrop-blur-lg p-4 rounded-2xl shadow-lg hover:shadow-2xl transition transform hover:-translate-y-1">
             <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 text-orange-500" fill="none" viewBox="0 0 24 24" stroke="currentColor">
