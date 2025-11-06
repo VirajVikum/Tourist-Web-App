@@ -7,7 +7,12 @@
         "type": "safari",
         "location": "Southern Province, Sri Lanka",
         "best_time": "February to July",
-        "highlights": ["Leopards", "Elephants", "Bird Watching", "Scenic Lakes"]
+        "highlights": [
+            "Leopards",
+            "Elephants",
+            "Bird Watching",
+            "Scenic Lakes"
+        ]
     },
     {
         "slug": "colombo",
@@ -17,7 +22,11 @@
         "type": "city",
         "location": "Western Province, Sri Lanka",
         "best_time": "December to March",
-        "highlights": ["Galle Face Green", "Pettah Market", "National Museum"]
+        "highlights": [
+            "Galle Face Green",
+            "Pettah Market",
+            "National Museum"
+        ]
     },
     {
         "slug": "kandy",
@@ -27,7 +36,11 @@
         "type": "cultural",
         "location": "Central Province, Sri Lanka",
         "best_time": "December to April",
-        "highlights": ["Temple of the Tooth", "Kandy Lake", "Cultural Dance Shows"]
+        "highlights": [
+            "Temple of the Tooth",
+            "Kandy Lake",
+            "Cultural Dance Shows"
+        ]
     },
     {
         "slug": "wilpattu-national-park",
@@ -37,6 +50,65 @@
         "type": "safari",
         "location": "Central Province, Sri Lanka",
         "best_time": "December to April",
-        "highlights": ["Temple of the Tooth", "Kandy Lake", "Cultural Dance Shows"]
+        "highlights": [
+            "Temple of the Tooth",
+            "Kandy Lake",
+            "Cultural Dance Shows"
+        ]
+    },
+    {
+        "slug": "round-tour-sri-lanka",
+        "name": "Sri Lanka Round Tour",
+        "description": "A complete Sri Lanka tour covering nature, culture, beaches and wildlife.",
+        "image": "/images/tours/kandy.jpg",
+        "type": "round tour",
+        "location": "All over Sri Lanka",
+        "best_time": "All year round",
+        "duration": "20 Days / 19 Nights",
+        "highlights": [
+            "Wildlife",
+            "Beaches",
+            "Culture",
+            "Hiking"
+        ],
+        "itinerary": [
+            {
+                "day": 1,
+                "title": "Arrival (CMB) - Negombo",
+                "description": "When you arrive at Colombo Bandaranaike International Airport, our driver picks you up and takes you straight to your hotel in Negombo. Negombo is in close proximity to the airport; it is the ideal place to stop and relax before you start exploring the rest of Sri Lanka.\n\nAfter some rest, you will go to the Negombo beach area, which has a beach park, delicious food, and excellent drinks to enjoy. You will also have the opportunity to meet new people and actually experience the culture and hospitality of the residents."
+            },
+            {
+                "day": 2,
+                "title": "Negombo - Pinnawala - Kandy",
+                "description": "After breakfast, you will go to Pinnawala Elephant Orphanage or Millennium Elephant Foundation, which provides tourists with a personal safari experience by following elephants around a 15-acre coconut estate as they forage, wander, and graze as they would in the wild.\n\nTourists can take advantage of three services provided by the Millennium Elephant Foundation: an Elephant Walk Experience, a Long-Term Volunteer Opportunity, and a One-Day Volunteer Program.\n\nIn the afternoon, you will be transferred to Kandy and checked into a hotel. In the evening, around 05:30, you will be escorted to the Kandy Lake Club Cultural Dance Show, a stimulating Sri Lankan Arts, Dance, and Cultural Heritage Show."
+            }
+        ]
+    },
+    {
+        "slug": "two-day-kandy-tour",
+        "name": "Kandy Explorer",
+        "description": "A short escape to the cultural capital of Sri Lanka.",
+        "image": "/images/tours/kandy.jpg",
+        "type": "short tour",
+        "location": "Kandy, Sri Lanka",
+        "duration": "2 Days / 1 Night",
+        "best_time": "December to April",
+        "highlights": [
+            "Temple of Tooth",
+            "Kandy Lake",
+            "Cultural Show"
+        ],
+        "itinerary": [
+            {
+                "day": 1,
+                "title": "Arrival (CMB) - Negombo",
+                "description": "When you arrive at Colombo Bandaranaike International Airport, our driver picks you up and takes you straight to your hotel in Negombo. Negombo is in close proximity to the airport; it is the ideal place to stop and relax before you start exploring the rest of Sri Lanka.\n\nAfter some rest, you will go to the Negombo beach area, which has a beach park, delicious food, and excellent drinks to enjoy. You will also have the opportunity to meet new people and actually experience the culture and hospitality of the residents."
+            },
+            {
+                "day": 2,
+                "title": "Negombo - Pinnawala - Kandy",
+                "description": "After breakfast, you will go to Pinnawala Elephant Orphanage or Millennium Elephant Foundation, which provides tourists with a personal safari experience by following elephants around a 15-acre coconut estate as they forage, wander, and graze as they would in the wild.\n\nTourists can take advantage of three services provided by the Millennium Elephant Foundation: an Elephant Walk Experience, a Long-Term Volunteer Opportunity, and a One-Day Volunteer Program.\n\nIn the afternoon, you will be transferred to Kandy and checked into a hotel. In the evening, around 05:30, you will be escorted to the Kandy Lake Club Cultural Dance Show, a stimulating Sri Lankan Arts, Dance, and Cultural Heritage Show."
+            }
+        ]
     }
 ]
