@@ -117,7 +117,7 @@
     "slug": "colombo-day-tour",
     "name": "Colombo Day Tour",
     "description": "A short city tour to explore Colombo’s history, culture and modern lifestyle.",
-    "image": "/images/tours/colombo-day.jpg",
+    "image": "/images/tours/one-day/colombo.jpg",
     "type": "short tour",
     "location": "Colombo, Sri Lanka",
     "duration": "5 Hours",
@@ -133,7 +133,181 @@
             "description": "Colombo, the bustling capital of Sri Lanka, is the main gateway for travelers exploring the island’s southern beaches.\n\nThe city has a rich history, influenced by the Portuguese, Dutch, and British, and shows this heritage through colonial buildings alongside modern skyscrapers and shopping centers.\n\nDuring the tour, you will visit the Gangaramaya Temple and Kelaniya Raja Maha Viharaya, see the Old Parliament building and the Lotus Tower, and explore Pettah Market and the Red Mosque.\n\nColombo also offers entertainment such as theaters, cinemas, cafes, museums, and art galleries. This short tour gives you a good overview of the city’s culture, history, and everyday life."
         }
     ]
+},
+
+{
+    "slug": "kandy-day-tour",
+    "name": "Kandy Day Tour",
+    "description": "A full day tour to explore Kandy’s culture, wildlife, and gardens.",
+    "image": "/images/tours/one-day/kandy.jpg",
+    "type": "short tour",
+    "location": "Kandy, Sri Lanka",
+    "duration": "1 Day",
+    "best_time": "Any time of the year",
+    "highlights": [
+        "Pinnawala Elephant Orphanage",
+        "Royal Botanical Gardens in Peradeniya",
+        "Tea Factory Visit",
+        "Sri Dalada Maligawa"
+    ],
+    "itinerary": [
+        {
+            "description": "The Pinnawala Elephant Orphanage was established in 1975 to care for adult and orphaned elephants in difficult situations. It is the largest breeding center for wild Asian elephants in the world. Here, you will see how the elephants are cared for, fed, and taken to the river for bathing.\n\nIf you prefer, the Pinnawala Nursery can be replaced by the Millennium Nursery, a smaller facility supervised by volunteers. You can take a short elephant ride, visit a small museum about elephants, and even participate in bathing an elephant in the river.\n\nNext, visit a garden of Ayurveda and spices, where you will learn about medicinal plants and enjoy aromatic spiced tea.\n\nThen, you will visit a working tea factory to see how the famous Ceylon tea is made, learn to identify different varieties, and taste the tea.\n\nAfterward, explore the Royal Botanical Gardens in Peradeniya. Covering about 60 hectares, the garden has tropical flowers, herbs, shrubs, and trees, including trees planted by world figures like Gagarin and Tsar Nikolai II. Walk among giant bamboo thickets, orchids, hibiscus, Seychelles palms, and many other tropical plants.\n\nFinally, visit Sri Dalada Maligawa, the main temple of the island, which houses the sacred Tooth Relic of the Buddha.\n\nThis tour is ideal for nature lovers, wildlife enthusiasts, people who enjoy active walks, and those interested in culture and religion."
+        }
+    ]
+},
+
+{
+    "slug": "galle-day-tour",
+    "name": "Galle Day Tour",
+    "description": "A short tour to explore Galle’s river, wildlife, history, and cultural sites.",
+    "image": "/images/tours/one-day/galle.jpg",
+    "type": "short tour",
+    "location": "Galle, Sri Lanka",
+    "duration": "5 Hours",
+    "best_time": "Any time of the year",
+    "highlights": [
+        "Madu River Boat Ride",
+        "Turtle Hatchery Point",
+        "Galle Dutch Fort",
+        "Mask Factory"
+    ],
+    "itinerary": [
+        {
+            "description": "This excursion is designed for those who prefer to stay close to the coast. Begin with a boat ride on the Madu River, where you can observe the daily lives of local Sri Lankans, their traditional crafts, shrimp and fish catching techniques, and visit an island where world-famous Ceylon cinnamon is grown. You will also see local Buddhist temples, animals and birds, and dense mangrove thickets.\n\nNext, visit one of the oldest turtle hatcheries along the coast at Kosgoda, opened in 1978. Staff patrol the shore for turtle eggs and transfer them to the farm to protect the sea turtle population. You will see newborn turtles as well as adult turtles that cannot survive in the open ocean. Rare albino turtles are also housed at the farm.\n\nThen, visit a moonstone deposit to learn about the process of mining this precious stone.\n\nFinally, explore the traditional mask museum, which showcases a large variety of masks, along with sculptures and paintings. You can see a workshop demonstrating step-by-step mask making, and learn the folklore and stories behind these traditional creations."
+        }
+    ]
+},
+
+{
+    "slug": "ella-day-tour",
+    "name": "Ella Day Tour",
+    "description": "A full-day tour to explore Ella’s scenic train ride, mountains, waterfalls, and baby elephants.",
+    "image": "/images/tours/one-day/ella.jpg",
+    "type": "short tour",
+    "location": "Ella, Sri Lanka",
+    "duration": "1 Day",
+    "best_time": "Any time of the year",
+    "highlights": [
+        "World Famous Train Ride to Ella",
+        "Little Adam's Peak",
+        "Nine Arch Bridge",
+        "Elephant Transit Home"
+    ],
+    "itinerary": [
+        {
+            "description": "This tour gives you a glimpse of everything Sri Lanka is famous for in just one day: highlands and tea plantations, a scenic train ride, adorable baby elephants at a nursery, walks through agricultural gardens, and tropical fruits.\n\nFrom your hotel or guesthouse, travel to Bandarawela station to board the train along the famous central railway line to Demodara station (approximately 50 minutes). Along the way, enjoy views of tea plantations and pass the iconic Nine Arch Bridge.\n\nAfter reaching Demodara, continue to Ella and return to the Nine Arch Bridge to take photos and learn about its history.\n\nNext, climb Little Adam's Peak to admire the stunning views of Ella and its surrounding mountains. Afterwards, visit the Elephant Transit Home nursery to see how baby elephants are fed with milk.\n\nOn the way back, stop at Ravana Falls, one of the most beautiful waterfalls on the island."
+        }
+    ]
+},
+
+{
+    "slug": "mirissa-whale-watching",
+    "name": "Mirissa Whale-Watching",
+    "description": "A thrilling boat tour to see blue whales and dolphins off the coast of Mirissa.",
+    "image": "/images/tours/one-day/mirissa-whale-watching.jpg",
+    "type": "short tour",
+    "location": "Mirissa, Sri Lanka",
+    "duration": "5 Hours",
+    "best_time": "November to April",
+    "highlights": [
+        "See the Blue Whales",
+        "See the Dolphins"
+    ],
+    "itinerary": [
+        {
+            "description": "Whale and dolphin watching in Mirissa is one of the most exciting water activities in Sri Lanka. Blue whales, the largest animals on earth, are often spotted here, making Mirissa the best place for this experience.\n\nThe tour usually takes 3–5 hours, with an average of 4 hours. Tours start before 7 a.m. from Mirissa Harbor, so you should arrive between 6:00 and 6:30 a.m. Morning tea is served before departure, and breakfast packages and snacks are available on board. The boat also has a toilet for your convenience."
+        }
+    ]
+},
+
+{
+    "slug": "udawalawe-safari",
+    "name": "Udawalawe Safari",
+    "description": "A day safari to explore Udawalawe National Park and see elephants and wildlife up close.",
+    "image": "/images/tours/safari/udawalawe.jpg",
+    "type": "safari",
+    "location": "Udawalawe, Sri Lanka",
+    "duration": "1 Day",
+    "best_time": "Any time of the year",
+    "highlights": [
+        "Udawalawe Safari",
+        "Mulkirigala Rock Monastery"
+    ],
+    "itinerary": [
+        {
+            "description": "Udawalawe National Park lies on the boundary of Sabaragamuwa and Uva Provinces in Sri Lanka. The park was created to provide a sanctuary for wild animals displaced by the construction of the Udawalawe Reservoir, as well as to protect the catchment of the reservoir.\n\nThe park is especially popular among elephant lovers, as it is home to more than 400 elephants. During your visit, it is common to see large herds of adult and baby elephants feeding, bathing, and playing in water. Besides elephants, you may also spot many birds, water buffaloes, deer, monkeys, and other wildlife.\n\nThe tour concludes with a visit to Mulkirigala Rock Monastery, a cluster of ancient Buddhist cave shrines on a natural rock rising 673 feet (205 meters) from the jungle floor. While temples have existed here for 2,000 years, the caves contain colorful Buddha statues and frescoes dating from the 1700s, making it one of South Sri Lanka’s must-see sites."
+        }
+    ]
 }
+,
+
+{
+    "slug": "yala-safari",
+    "name": "Yala Safari",
+    "description": "A one-day safari to explore Yala National Park and visit the sacred temple in Kataragama.",
+    "image": "/images/tours/safari/yala.jpg",
+    "type": "safari",
+    "location": "Yala, Sri Lanka",
+    "duration": "1 Day",
+    "best_time": "Any time of the year",
+    "highlights": [
+        "Yala Safari",
+        "Hindu Temple in Kataragama"
+    ],
+    "itinerary": [
+        {
+            "description": "The two main attractions in southeast Sri Lanka are Yala National Park, one of the oldest and largest nature reserves on the island, and the sacred temple in Kataragama. This tour is ideal for wildlife lovers and people interested in culture, religion, and traditions.\n\nYala is home to the endemic Ceylon leopard, which is the highlight most visitors hope to see. The park also has wild elephants, buffaloes, deer, wild boars, bears, peacocks, crocodiles, and many other birds and reptiles. The 4-hour safari allows you to experience the rich wildlife, depending on the skill of the jeep driver and a bit of luck.\n\nAfter the safari, visit the main temple in Kataragama, a sacred site for both Buddhists and Hindus. According to legend, the Buddha meditated here during his third visit to the island, making it one of the 16 important pilgrimage sites in Sri Lanka. The temple is also dedicated to the Hindu god Skanda, where visitors can seek blessings for various life matters."
+        }
+    ]
+},
+
+{
+    "slug": "ridiyagama-safari",
+    "name": "Ridiyagama Safari",
+    "description": "A half-day safari to see exotic and endemic animals, visit a botanical garden, and explore Mulkirigala Rock Monastery.",
+    "image": "/images/tours/safari/ridiyagama.jpg",
+    "type": "safari",
+    "location": "Sri Lanka",
+    "duration": "4 Hours",
+    "best_time": "Any time of the year",
+    "highlights": [
+        "Endemic Animals",
+        "Bata Ata State Agricultural Botanical Garden",
+        "Exotic Animals",
+        "Mulkirigala Rock Monastery"
+    ],
+    "itinerary": [
+        {
+            "description": "Ridiyagama Safari Park offers a guaranteed chance to see a large number of exotic animals, unlike most national parks where wildlife sightings are unpredictable. The safari takes place in a huge, enclosed area where animals such as lions, Bengal tigers, elephants, ostriches, zebras, antelopes, and many birds live freely. Visitors explore the park in a latticed open jeep for a safe and close-up experience.\n\nThe safari lasts about 1.5–2 hours. Afterward, visit the Bata Ata State Agricultural Botanical Garden, which features fruit trees, shrubs, flowers (including endemic species), and walking paths. This garden also allows visitors to taste local traditional Sri Lankan dishes and herbal teas.\n\nThe tour ends with a visit to Mulkirigala Rock Monastery, a cluster of ancient Buddhist cave shrines rising 673 feet (205 meters) from the jungle floor. The caves contain colorful Buddha statues and frescoes dating back to the 1700s and have been a place of worship for over 2,000 years, making it one of South Sri Lanka’s must-see sites."
+        }
+    ]
+},
+
+{
+    "slug": "bundala-safari",
+    "name": "Bundala Safari",
+    "description": "A one-day safari to explore wetlands, lagoons, and one of Sri Lanka’s best bird-watching national parks.",
+    "image": "/images/tours/safari/bundala.jpg",
+    "type": "safari",
+    "location": "Bundala, Sri Lanka",
+    "duration": "1 Day",
+    "best_time": "Any time of the year",
+    "highlights": [
+        "Bird Watching",
+        "Mammals Watching"
+    ],
+    "itinerary": [
+        {
+            "description": "Bundala National Park, located in the southern part of Sri Lanka, is a wildlife enthusiast’s dream come true. The park spreads across 6,216 hectares and consists of wetlands, dry thorny forests, lagoons, and sand dunes, making it one of the country’s most ecologically rich national parks.\n\nBundala is internationally recognized for its extraordinary birdlife, hosting more than 200 species, including both resident and migratory birds. Some of the key species include flamingos, pelicans, spoonbills, storks, herons, and a wide variety of wading birds. The migratory season from September to March turns the park into a stunning spectacle as thousands of birds arrive to nest and feed.\n\nIn addition to birdlife, Bundala is also home to wildlife such as elephants, mugger crocodiles, spotted deer, wild boar, monitor lizards, and various small mammals. The safari drive allows visitors to experience these animals within their natural habitats while enjoying scenic lagoon views.\n\nThis one-day safari is perfect for nature photographers, bird lovers, and wildlife explorers looking for a peaceful and richly biodiverse adventure."
+        }
+    ]
+}
+
+
+
+
+
 
 
 
