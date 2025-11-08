@@ -51,9 +51,12 @@
         <div class="bg-white p-6 rounded-xl shadow border-l-4 border-blue-600">
             
             {{-- Day Title --}}
-            <h3 class="text-2xl font-bold text-gray-800 mb-3">
-                Day {{ $day['day'] }} — {{ $day['title'] }}
-            </h3>
+            @if(isset($day['day']))
+    <h3 class="text-2xl font-bold text-gray-800 mb-3">
+        Day {{ $day['day'] }} — {{ $day['title'] }}
+    </h3>
+@endif
+
 
             {{-- Description (paragraph support) --}}
             <div class="text-gray-700 space-y-4 leading-relaxed text-lg">

@@ -110,5 +110,32 @@
                 "description": "After breakfast, you will go to Pinnawala Elephant Orphanage or Millennium Elephant Foundation, which provides tourists with a personal safari experience by following elephants around a 15-acre coconut estate as they forage, wander, and graze as they would in the wild.\n\nTourists can take advantage of three services provided by the Millennium Elephant Foundation: an Elephant Walk Experience, a Long-Term Volunteer Opportunity, and a One-Day Volunteer Program.\n\nIn the afternoon, you will be transferred to Kandy and checked into a hotel. In the evening, around 05:30, you will be escorted to the Kandy Lake Club Cultural Dance Show, a stimulating Sri Lankan Arts, Dance, and Cultural Heritage Show."
             }
         ]
-    }
+    },
+
+
+    {
+    "slug": "colombo-day-tour",
+    "name": "Colombo Day Tour",
+    "description": "A short city tour to explore Colombo’s history, culture and modern lifestyle.",
+    "image": "/images/tours/colombo-day.jpg",
+    "type": "short tour",
+    "location": "Colombo, Sri Lanka",
+    "duration": "5 Hours",
+    "best_time": "Any time of the year",
+    "highlights": [
+        "Gangaramaya Temple and Kelaniya Raja Maha Viharaya",
+        "Experience modern Sri Lankan city lifestyle",
+        "Old Parliament building and the Lotus Tower",
+        "Pettah Market and the Red Mosque"
+    ],
+    "itinerary": [
+        {
+            "description": "Colombo, the bustling capital of Sri Lanka, is the main gateway for travelers exploring the island’s southern beaches.\n\nThe city has a rich history, influenced by the Portuguese, Dutch, and British, and shows this heritage through colonial buildings alongside modern skyscrapers and shopping centers.\n\nDuring the tour, you will visit the Gangaramaya Temple and Kelaniya Raja Maha Viharaya, see the Old Parliament building and the Lotus Tower, and explore Pettah Market and the Red Mosque.\n\nColombo also offers entertainment such as theaters, cinemas, cafes, museums, and art galleries. This short tour gives you a good overview of the city’s culture, history, and everyday life."
+        }
+    ]
+}
+
+
+
+
 ]
