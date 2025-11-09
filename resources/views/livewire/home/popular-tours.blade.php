@@ -41,7 +41,7 @@
             {{ $place['description'] }}
         </p>
 
-        <a href="#"
+        <a href="{{ route('place.details', $place['slug']) }}"
             class="inline-flex items-center text-blue-600 font-medium group-hover:text-blue-700 transition duration-300">
             Explore
             <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4 ml-1 group-hover:translate-x-1 transition-transform"
