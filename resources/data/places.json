@@ -1,118 +1,5 @@
 [
-    {
-        "slug": "yala-national-park",
-        "name": "Yala National Park",
-        "description": "A premier safari destination with leopards, elephants, and lush landscapes. Yala offers unforgettable wildlife experiences with guided jeep tours.",
-        "image": "/images/tours/yala.jpg",
-        "type": "safari",
-        "location": "Southern Province, Sri Lanka",
-        "best_time": "February to July",
-        "highlights": [
-            "Leopards",
-            "Elephants",
-            "Bird Watching",
-            "Scenic Lakes"
-        ]
-    },
-    {
-        "slug": "colombo",
-        "name": "Colombo",
-        "description": "The vibrant capital city known for its colonial architecture, seaside promenade, and lively markets.",
-        "image": "/images/tours/colombo.jpg",
-        "type": "city",
-        "location": "Western Province, Sri Lanka",
-        "best_time": "December to March",
-        "highlights": [
-            "Galle Face Green",
-            "Pettah Market",
-            "National Museum"
-        ]
-    },
-    {
-        "slug": "kandy",
-        "name": "Kandy",
-        "description": "Home to the Temple of the Tooth, a sacred Buddhist site surrounded by hills and a scenic lake.",
-        "image": "/images/tours/kandy.jpg",
-        "type": "cultural",
-        "location": "Central Province, Sri Lanka",
-        "best_time": "December to April",
-        "highlights": [
-            "Temple of the Tooth",
-            "Kandy Lake",
-            "Cultural Dance Shows"
-        ]
-    },
-    {
-        "slug": "wilpattu-national-park",
-        "name": "Wilpattu National Park",
-        "description": "Known for its leopard population and scenic lakes.",
-        "image": "/images/tours/wilpattu.jpg",
-        "type": "safari",
-        "location": "Central Province, Sri Lanka",
-        "best_time": "December to April",
-        "highlights": [
-            "Temple of the Tooth",
-            "Kandy Lake",
-            "Cultural Dance Shows"
-        ]
-    },
-    {
-        "slug": "round-tour-sri-lanka",
-        "name": "Sri Lanka Round Tour",
-        "description": "A complete Sri Lanka tour covering nature, culture, beaches and wildlife.",
-        "image": "/images/tours/kandy.jpg",
-        "type": "round tour",
-        "location": "All over Sri Lanka",
-        "best_time": "All year round",
-        "duration": "20 Days / 19 Nights",
-        "highlights": [
-            "Wildlife",
-            "Beaches",
-            "Culture",
-            "Hiking"
-        ],
-        "itinerary": [
-            {
-                "day": 1,
-                "title": "Arrival (CMB) - Negombo",
-                "description": "When you arrive at Colombo Bandaranaike International Airport, our driver picks you up and takes you straight to your hotel in Negombo. Negombo is in close proximity to the airport; it is the ideal place to stop and relax before you start exploring the rest of Sri Lanka.\n\nAfter some rest, you will go to the Negombo beach area, which has a beach park, delicious food, and excellent drinks to enjoy. You will also have the opportunity to meet new people and actually experience the culture and hospitality of the residents."
-            },
-            {
-                "day": 2,
-                "title": "Negombo - Pinnawala - Kandy",
-                "description": "After breakfast, you will go to Pinnawala Elephant Orphanage or Millennium Elephant Foundation, which provides tourists with a personal safari experience by following elephants around a 15-acre coconut estate as they forage, wander, and graze as they would in the wild.\n\nTourists can take advantage of three services provided by the Millennium Elephant Foundation: an Elephant Walk Experience, a Long-Term Volunteer Opportunity, and a One-Day Volunteer Program.\n\nIn the afternoon, you will be transferred to Kandy and checked into a hotel. In the evening, around 05:30, you will be escorted to the Kandy Lake Club Cultural Dance Show, a stimulating Sri Lankan Arts, Dance, and Cultural Heritage Show."
-            }
-        ]
-    },
-    {
-        "slug": "two-day-kandy-tour",
-        "name": "Kandy Explorer",
-        "description": "A short escape to the cultural capital of Sri Lanka.",
-        "image": "/images/tours/kandy.jpg",
-        "type": "short tour",
-        "location": "Kandy, Sri Lanka",
-        "duration": "2 Days / 1 Night",
-        "best_time": "December to April",
-        "highlights": [
-            "Temple of Tooth",
-            "Kandy Lake",
-            "Cultural Show"
-        ],
-        "itinerary": [
-            {
-                "day": 1,
-                "title": "Arrival (CMB) - Negombo",
-                "description": "When you arrive at Colombo Bandaranaike International Airport, our driver picks you up and takes you straight to your hotel in Negombo. Negombo is in close proximity to the airport; it is the ideal place to stop and relax before you start exploring the rest of Sri Lanka.\n\nAfter some rest, you will go to the Negombo beach area, which has a beach park, delicious food, and excellent drinks to enjoy. You will also have the opportunity to meet new people and actually experience the culture and hospitality of the residents."
-            },
-            {
-                "day": 2,
-                "title": "Negombo - Pinnawala - Kandy",
-                "description": "After breakfast, you will go to Pinnawala Elephant Orphanage or Millennium Elephant Foundation, which provides tourists with a personal safari experience by following elephants around a 15-acre coconut estate as they forage, wander, and graze as they would in the wild.\n\nTourists can take advantage of three services provided by the Millennium Elephant Foundation: an Elephant Walk Experience, a Long-Term Volunteer Opportunity, and a One-Day Volunteer Program.\n\nIn the afternoon, you will be transferred to Kandy and checked into a hotel. In the evening, around 05:30, you will be escorted to the Kandy Lake Club Cultural Dance Show, a stimulating Sri Lankan Arts, Dance, and Cultural Heritage Show."
-            }
-        ]
-    },
-
-
+    
     {
     "slug": "colombo-day-tour",
     "name": "Colombo Day Tour",
@@ -302,7 +189,192 @@
             "description": "Bundala National Park, located in the southern part of Sri Lanka, is a wildlife enthusiast’s dream come true. The park spreads across 6,216 hectares and consists of wetlands, dry thorny forests, lagoons, and sand dunes, making it one of the country’s most ecologically rich national parks.\n\nBundala is internationally recognized for its extraordinary birdlife, hosting more than 200 species, including both resident and migratory birds. Some of the key species include flamingos, pelicans, spoonbills, storks, herons, and a wide variety of wading birds. The migratory season from September to March turns the park into a stunning spectacle as thousands of birds arrive to nest and feed.\n\nIn addition to birdlife, Bundala is also home to wildlife such as elephants, mugger crocodiles, spotted deer, wild boar, monitor lizards, and various small mammals. The safari drive allows visitors to experience these animals within their natural habitats while enjoying scenic lagoon views.\n\nThis one-day safari is perfect for nature photographers, bird lovers, and wildlife explorers looking for a peaceful and richly biodiverse adventure."
         }
     ]
+},
+
+
+  {
+  "slug": "udawalawe-nuwara-eliya",
+  "name": "Udawalawe & Nuwara Eliya",
+  "description": "A 2-day wildlife and hill country adventure featuring Udawalawe National Park, scenic train rides, waterfalls, and tea plantations.",
+  "image": "/images/tours/short-tours/udawalawe-nuwara-eliya.jpg",
+  "type": "short tour",
+  "location": "Udawalawe & Nuwara Eliya, Sri Lanka",
+  "duration": "2 Days",
+  "best_time": "Any time of the year",
+  "pickup": "Hotel-Tour-Hotel",
+  "cost": "Contact us for details",
+  "highlights": [
+    "Udawalawe National Park safari",
+    "Buduruwagala Temple and waterfalls",
+    "Nine-arch bridge & Adam’s Peak view",
+    "Scenic train journey to Nuwara Eliya",
+    "Tea factory visit and tasting",
+    "Ramboda waterfall and Ambuluwawa Tower"
+  ],
+  "itinerary": [
+    {
+      "description": "Experience a captivating 2-day journey combining wildlife exploration and the serene hill country of Sri Lanka.\n\nStart with a safari in Udawalawe National Park, home to elephants and diverse wildlife. Travel through lush landscapes, visit historic temples, waterfalls, and iconic railway bridges.\n\nContinue into the cool, picturesque highlands of Nuwara Eliya with its tea estates, colonial architecture, and charming gardens."
+    },
+    {
+      "day": 1,
+      "title": "Udawalawe Safari & Ella Highlights",
+      "description": "Begin your day with a morning jeep safari in Udawalawe National Park, spotting elephants and other wildlife in their natural habitats.\n\nContinue towards Ella, stopping at Buduruwagala Temple with its ancient rock carvings and nearby scenic waterfalls.\n\nVisit the famous Nine-Arch Bridge, then climb a small peak for panoramic views of the surrounding hills.\n\nOvernight stay at your hotel in Ella."
+    },
+    {
+      "day": 2,
+      "title": "Train Journey & Nuwara Eliya Exploration",
+      "description": "After breakfast, board the train at Ella Railway Station for one of the world’s most scenic rail journeys, passing tea plantations, waterfalls, and tunnels en route to Nanuoya.\n\nIn Nuwara Eliya, explore the historic post office, colonial-era mansions, and the Grand Hotel.\n\nVisit a traditional tea factory to learn about Ceylon tea production and enjoy tastings.\n\nContinue to Ramboda Waterfall and conclude with a climb up Ambuluwawa Tower for panoramic views over the surrounding landscape before returning to your hotel."
+    }
+  ]
 }
+,
+  {
+  "slug": "nuwara-eliya-ella",
+  "name": "Nuwara Eliya & Ella",
+  "description": "A 2-day hill country tour exploring Nuwara Eliya’s tea plantations, gardens, waterfalls, and the scenic landscapes of Ella.",
+  "image": "/images/tours/short-tours/nuwara-eliya-ella.jpg",
+  "type": "short tour",
+  "location": "Nuwara Eliya & Ella, Sri Lanka",
+  "duration": "2 Days",
+  "best_time": "Any time of the year",
+  "pickup": "Hotel-Tour-Hotel",
+  "cost": "Contact us for details",
+  "highlights": [
+    "Ambuluwawa Tower climb",
+    "Tea plantations and tea museum visit",
+    "Devon and St. Clair waterfalls",
+    "Scenic train ride from Nanuoya to Ella",
+    "Nine-arch bridge and Adam’s Peak view",
+    "Ravana waterfall and Ella viewpoints"
+  ],
+  "itinerary": [
+    {
+      "description": "Nuwara Eliya is known for its cool climate, making it the coldest town in Sri Lanka.\n\nSurrounded by lush tea estates and beautiful gardens, it is famous for Ceylon tea production. Visitors can tour tea plantations, witness the tea-making process, and enjoy tasting sessions.\n\nElla, located about 100 km southeast, has a milder climate and offers stunning natural beauty with green valleys, waterfalls, and scenic viewpoints."
+    },
+    {
+      "day": 1,
+      "title": "Ambuluwawa Tower & Nuwara Eliya",
+      "description": "Start the day by climbing Ambuluwawa Tower, a 48-meter structure with a spiral staircase offering spectacular views over the biosphere reserve.\n\nTravel to Nuwara Eliya, passing through tea plantations and stopping at Devon and St. Clair waterfalls.\n\nVisit the tea museum to learn about Ceylon tea production and its history.\n\nOvernight stay at your hotel in Nuwara Eliya."
+    },
+    {
+      "day": 2,
+      "title": "Train Ride & Ella Exploration",
+      "description": "After breakfast, board the train at Nanuoya Railway Station for a scenic journey to Ella, enjoying views of tea estates, waterfalls, and tunnels along the route.\n\nIn Ella, visit the famous Nine-Arch Bridge, climb a small peak for views of Adam, and explore the Ravana waterfall.\n\nThis excursion is ideal for nature enthusiasts and those interested in culture, history, and outdoor exploration."
+    }
+  ]
+}
+
+,
+  {
+  "slug": "udawalawe-ella",
+  "name": "Udawalawe & Ella",
+  "description": "A 2-day tour combining wildlife experiences in Udawalawe and scenic highlands exploration in Ella, including waterfalls, viewpoints, and tea plantations.",
+  "image": "/images/tours/short-tours/udawalawe-ella.jpg",
+  "type": "short tour",
+  "location": "Udawalawe & Ella, Sri Lanka",
+  "duration": "2 Days",
+  "best_time": "Any time of the year",
+  "pickup": "Hotel-Tour-Hotel",
+  "cost": "Contact us for details",
+  "highlights": [
+    "Udawalawe National Park morning safari",
+    "Buduruwagala Temple and Ravana waterfall",
+    "Nine Arch Bridge and Little Adam’s Peak",
+    "Scenic train journey from Demodara to Haputale",
+    "Adisham Monastery visit",
+    "Diyaluma Waterfall"
+  ],
+  "itinerary": [
+    {
+      "description": "Udawalawe is renowned for its natural beauty and wildlife, especially the elephants that roam freely in the Udawalawe National Park.\n\nEmbark on jeep safaris to see elephants, buffalo, deer, crocodiles, and various birds against the backdrop of rolling hills and water reservoirs.\n\nElla, a charming town in the central highlands, offers breathtaking viewpoints like the Ella Gap, scenic hiking trails to Ella Rock and Little Adam’s Peak, and cultural highlights such as the Nine Arch Bridge and local tea factories."
+    },
+    {
+      "day": 1,
+      "title": "Udawalawe Safari & Ella Highlights",
+      "description": "Start the day with a morning safari in Udawalawe National Park to observe elephants and other wildlife.\n\nTravel towards Ella, stopping at Buduruwagala Temple and the legendary Ravana waterfall.\n\nVisit the iconic Nine Arch Bridge and climb Little Adam’s Peak for panoramic views of the surrounding hills.\n\nOvernight stay at your hotel in Ella."
+    },
+    {
+      "day": 2,
+      "title": "Train Journey & Haputale Exploration",
+      "description": "After breakfast, board the train at Demodara Station for a scenic journey to Haputale, passing the Nine Arch Bridge and enjoying stunning hill country vistas.\n\nIn Haputale, visit the former English estate and current Adisham Monastery of the Brotherhood of St. Benedict.\n\nConclude the day with a visit to Diyaluma Waterfall before returning to your hotel."
+    }
+  ]
+}
+,
+  {
+  "slug": "udawalawe-baby-elephants-haputale-nuwara-eliya",
+  "name": "Udawalawe Baby Elephants, Haputale & Nuwara Eliya",
+  "description": "A 2-day wildlife and highlands adventure featuring Udawalawe baby elephants, scenic train rides, Haputale vistas, tea plantations, and waterfalls.",
+  "image": "/images/tours/short-tours/udawalawe-baby-haputale-nuwara.jpg",
+  "type": "short tour",
+  "location": "Udawalawe, Haputale & Nuwara Eliya, Sri Lanka",
+  "duration": "2 Days",
+  "best_time": "Any time of the year",
+  "pickup": "Hotel-Tour-Hotel",
+  "cost": "Contact us for details",
+  "highlights": [
+    "Udawalawe baby elephant nursery visit",
+    "Ravana waterfall",
+    "Nine-arch bridge & Little Adam’s Peak",
+    "Haputale scenic viewpoints",
+    "Adisham Monastery visit",
+    "Nuwara Eliya historic town and tea factory",
+    "Ramboda waterfall"
+  ],
+  "itinerary": [
+    {
+      "description": "Udawalawe National Park is home to a large population of elephants, including adorable baby elephants that thrive in a safe environment.\n\nVisitors can observe young elephants playing, feeding, and learning from their elders. The park’s diverse landscapes of grasslands, marshes, and reservoirs provide ideal habitats for these majestic creatures.\n\nHaputale, perched high in the central highlands, offers stunning vistas, cool climates, and rolling tea plantations, making it perfect for nature lovers.\n\nNuwara Eliya, the tea capital of Sri Lanka, features lush gardens, colonial architecture, and world-famous Ceylon tea, which visitors can sample at local factories."
+    },
+    {
+      "day": 1,
+      "title": "Udawalawe Baby Elephants & Haputale",
+      "description": "Start the day at the Udawalawe baby elephant nursery, where young elephants left without parental care are nurtured for five years before being released into the wild. Observe feeding sessions and learn about the conservation process.\n\nTravel towards Ella, stopping at Ravana Waterfall, shrouded in ancient legends.\n\nVisit the iconic Nine Arch Bridge and climb Little Adam’s Peak for panoramic views.\n\nContinue to Haputale and check in at your hotel for an overnight stay."
+    },
+    {
+      "day": 2,
+      "title": "Haputale & Nuwara Eliya",
+      "description": "After breakfast, visit the former estate of an English planter, now the Adisham Monastery of the Brotherhood of St. Benedict.\n\nBoard the train at Haputale Station for a scenic ride to Nanuoya, passing picturesque hills and tea plantations along one of the world’s most beautiful railway routes.\n\nArrive in Nuwara Eliya, exploring its historic post office, colonial-era mansions, and the Grand Hotel.\n\nVisit a traditional tea factory to witness tea production and enjoy tastings. End the day with a stop at Ramboda Waterfall before returning to your hotel."
+    }
+  ]
+}
+,
+  {
+  "slug": "sigiriya-dambulla-minneriya-safari",
+  "name": "Sigiriya, Dambulla & Minneriya Safari",
+  "description": "A 2-day cultural and wildlife tour exploring Sigiriya or Pidurangala, Dambulla’s golden cave temples, Minneriya National Park, and local tea and spice estates.",
+  "image": "/images/tours/short-tours/sigiriya-dambulla-minneriya.jpg",
+  "type": "short tour",
+  "location": "Sigiriya, Dambulla & Minneriya, Sri Lanka",
+  "duration": "2 Days",
+  "best_time": "Any time of the year",
+  "pickup": "Hotel-Tour-Hotel",
+  "cost": "Contact us for details",
+  "highlights": [
+    "Kurunegala giant Buddha statue viewpoint",
+    "Pidurangala or Sigiriya climb",
+    "Minneriya elephant safari",
+    "Dambulla Golden Temple caves",
+    "Spice garden & tea factory tour"
+  ],
+  "itinerary": [
+    {
+      "description": "Sigiriya, known as the Lion Rock, is an iconic UNESCO World Heritage Site in central Sri Lanka.\n\nIts sheer rock walls feature ancient frescoes and the remains of a royal palace at the summit, including the famous Lion’s Paw Terrace. Dambulla, another UNESCO site, is famous for its golden cave temples, adorned with intricate murals and numerous Buddha statues.\n\nMinneriya National Park is a wildlife sanctuary best known for the ‘Gathering of Elephants,’ where hundreds of elephants congregate around the Minneriya Tank during the dry season. The park is also home to leopards, bears, crocodiles, and a variety of birds."
+    },
+    {
+      "day": 1,
+      "title": "Kurunegala & Sigiriya/Pidurangala",
+      "description": "Begin the tour in Kurunegala, once a capital of the Sinhalese kingdom, and visit Etagala Mountain to see the giant white Buddha statue and enjoy panoramic views.\n\nProceed to Mount Pidurangala, a Buddhist monastery offering spectacular views of Lion Rock. Explore the temple, see a replica of the Sigiriya frescoes, ancient monastic cells, and a 15-meter Buddha statue from the 10th century.\n\nOptional: climb Sigiriya instead of Pidurangala for an additional fee.\n\nOvernight stay at the hotel."
+    },
+    {
+      "day": 2,
+      "title": "Minneriya Safari & Dambulla",
+      "description": "Start the day with a 3-hour jeep safari in Minneriya National Park, observing elephants and other wildlife in their natural habitats.\n\nOn the way back, visit the Dambulla Golden Temple, home to one of the largest Buddha statues in Sri Lanka.\n\nContinue to a local spice and Ayurveda garden to learn about traditional medicinal plants and enjoy aromatic teas.\n\nFinish with a visit to a working tea factory to see the stages of Ceylon tea production, taste different varieties, and optionally purchase tea directly from the producer."
+    }
+  ]
+}
+
+
+
 
 
 
