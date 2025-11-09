@@ -15,20 +15,11 @@
             <p class="text-gray-700 mb-6">{{ $place['description'] }}</p>
 
             <div class="space-y-2">
-                <p><span class="font-semibold text-gray-800">📍 Location:</span> {{ $place['location'] }}</p>
-                <p><span class="font-semibold text-gray-800">🕒 Best Time to Visit:</span> {{ $place['best_time'] }}</p>
+                <p><span class="font-bold text-gray-800">📍  Location:</span> {{ $place['location'] }}</p>
+                <p><span class="font-bold text-gray-800">🕒 Best Time to Visit:</span> {{ $place['best_time'] }}</p>
             </div>
 
-            <div class="mt-6">
-                <h3 class="font-semibold text-lg text-gray-800 mb-2">Highlights</h3>
-                <ul class="grid grid-cols-2 gap-2">
-                    @foreach ($place['highlights'] as $item)
-                        <li class="flex items-center gap-2">
-                            <span class="text-blue-600">✔</span> <span>{{ $item }}</span>
-                        </li>
-                    @endforeach
-                </ul>
-            </div>
+            
             @if(isset($place['duration']))
                 <div class="mt-6 p-4 bg-blue-50 rounded-lg border border-blue-100">
                     <p class="text-lg font-semibold text-blue-700">🗓 Duration: {{ $place['duration'] }}</p>
@@ -37,6 +28,16 @@
 
             </div>
     </div>
+    <div class="mt-6">
+                <h3 class="font-bold text-2xl text-gray-800 mb-2">Highlights</h3>
+                <ul class="grid grid-cols-2 gap-2">
+                    @foreach ($place['highlights'] as $item)
+                        <li class="flex items-center gap-2">
+                            <span class="text-blue-600">✔</span> <span>{{ $item }}</span>
+                        </li>
+                    @endforeach
+                </ul>
+            </div>
 
             {{-- Tour Duration --}}
             
