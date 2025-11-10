@@ -591,7 +591,691 @@
       "description": "Visit the mysterious Kadadora Temple ruins, visible only when reservoir water levels are low, often compared to the lost city of Atlantis.\n\nFinish the tour at the 48-meter Ambuluwawa Tower, famous for its spiral staircase and 360° panoramic views across the region."
     }
   ]
+},
+
+{
+  "slug": "sinharaja-rainforest-eco-tour-03-days-02-nights",
+  "name": "Sinharaja Rainforest & Eco Tour 03 Days 02 Nights",
+  "description": "Discover the wonders of Sri Lanka’s UNESCO-listed Sinharaja Rainforest with a 3-day eco-tour. Explore endemic wildlife, lush tropical flora, waterfalls, and enjoy guided nature walks. The tour includes hotel stays, expert guides, transport, insurance, and breakfast.",
+  "image": "/images/tours/short-tours/03-days-02-ajasinha-nights.jpg",
+  "type": "short tour",
+  "location": "Colombo, Sinharaja Rainforest, Galle, Sri Lanka",
+  "duration": "3 Days 2 Nights",
+  "best_time": "Any time of the year",
+  "pickup": "Airport–Hotel–Tour–Airport",
+  "cost": "Contact us for details",
+  "highlights": [
+    "Guided trek through Sinharaja Rainforest",
+    "Birdwatching and spotting endemic wildlife",
+    "Waterfall hikes and nature photography",
+    "Eco-education about tropical rainforest conservation",
+    "Scenic drives through Sri Lanka’s southwest wet zone",
+    "Village visits and cultural experiences near the rainforest"
+  ],
+  "itinerary": [
+    {
+      "description": "Experience Sri Lanka’s biodiversity and pristine rainforest on a 3-day eco-tour to the Sinharaja Rainforest, a UNESCO World Heritage Site, featuring endemic birds, mammals, and rich tropical flora."
+    },
+    {
+      "day": 1,
+      "title": "Arrival – Colombo – Sinharaja",
+      "description": "Arrive at Bandaranaike International Airport and meet your Lanka Heaven Tours chauffeur. Drive to Sinharaja Rainforest, passing scenic southwestern landscapes. Check in at your eco-lodge or hotel near the rainforest. Enjoy a short evening nature walk and an introduction to the rainforest ecosystem."
+    },
+    {
+      "day": 2,
+      "title": "Full Day Sinharaja Rainforest Trek",
+      "description": "After breakfast, embark on a full-day guided trek into the Sinharaja Rainforest. Spot endemic bird species, butterflies, monkeys, and unique flora. Visit waterfalls and natural pools for relaxation and photography. Enjoy an eco-lunch in the heart of the forest and learn about the conservation efforts protecting this UNESCO World Heritage Site. Return to your lodge for dinner and overnight stay."
+    },
+    {
+      "day": 3,
+      "title": "Sinharaja – Galle / Colombo – Departure",
+      "description": "After breakfast, take a final short morning walk through the forest or nearby village. Check out from your lodge and transfer via scenic route to Galle or Colombo. Stop at viewpoints or local villages along the way. Arrive at the airport or your hotel in Colombo for departure with memories of Sri Lanka’s rainforest adventure."
+    }
+  ]
 }
+,
+
+{
+  "slug": "05-days-04-nights-round-tour",
+  "name": "05 Days 04 Nights",
+  "description": "A 5-day coastal and cultural round tour of Sri Lanka, offering scenic beaches, river safaris, heritage sites, whale watching, and city exploration with smooth airport transfers and guided sightseeing.",
+  "image": "/images/tours/round-tours/colombo-bentota-galle-mirissa-negombo.jpg",
+  "type": "round tour",
+  "location": "Colombo, Bentota, Galle, Mirissa, Negombo, Sri Lanka",
+  "duration": "5 Days 4 Nights",
+  "best_time": "Any time of the year",
+  "pickup": "Airport–Hotel–Tour–Airport",
+  "cost": "Contact us for details",
+  "highlights": [
+    "Colombo city attractions",
+    "Bentota beach and turtle hatchery",
+    "Madu River boat safari",
+    "Galle Fort and lighthouse visit",
+    "Unawatuna Beach stop",
+    "Mirissa whale watching tour",
+    "Negombo city and beach experience"
+  ],
+  "itinerary": [
+    {
+      "description": "When your flight arrives at Colombo International Airport, a chauffeur or guide from Lanka Heave Tours will meet and welcome you. After clearing the airport, you will be transferred to Colombo, which takes roughly 40 minutes. Colombo, the commercial capital of Sri Lanka, is also a top destination for travelers, offering city landmarks, beachfront views, and a thriving business district including the famous Fort area."
+    },
+    {
+      "day": 1,
+      "title": "Arrival (CMB) - Colombo",
+      "description": "After hotel check-in, your guide will take you on a city tour. Highlights include the National Museum of Colombo, Lotus Tower, and Gangarama Temple. The museum showcases ancient Sri Lankan statues, as well as the former King’s golden throne and crown. The Lotus Tower, named for its lotus-inspired design, is the second tallest structure in South Asia and features observation and leisure facilities. At Gangarama Temple, you can see a collection of Buddha statues and sacred relics, including believed strands of Buddha’s hair. Overnight stay in Colombo."
+    },
+    {
+      "day": 2,
+      "title": "Colombo – Bentota – Galle",
+      "description": "After breakfast, depart to Galle. En route, stop at Bentota Beach. Visit a turtle hatchery, where you may hold baby turtles. Enjoy a scenic Madu River safari surrounded by rich mangroves and diverse wildlife. Continue to Galle, arriving in around 1 hour 40 minutes. After resort check-in, explore Galle’s key attractions, including the National Maritime Museum, Galle Fort, and its iconic Lighthouse, built in 1954, surrounded by historic cannons and ocean views. Overnight stay in Galle."
+    },
+    {
+      "day": 3,
+      "title": "Galle – Mirissa",
+      "description": "After breakfast, head to Mirissa (approx. 1 hour). Stop at Unawatuna Beach, known for its turquoise waters, palm coastline, and a rock-top Buddha statue offering panoramic views. Continue to Mirissa, a coastal town famous worldwide for blue whale sightings. Relax on the beach and enjoy the calm seaside atmosphere. Overnight stay in Mirissa."
+    },
+    {
+      "day": 4,
+      "title": "Mirissa – Negombo",
+      "description": "Early morning whale-watching excursion. Afterward, drive to Negombo (approx. 3 hours). This coastal town, often called 'Little Rome,' is known for colonial churches, local markets, Dutch Fort, fishing culture, and sandy beaches. Visit St. Mary’s Church, one of the city’s most notable landmarks. In the afternoon, explore the city and relax at the beach. Overnight stay in Negombo."
+    },
+    {
+      "day": 5,
+      "title": "Negombo – Departure",
+      "description": "Enjoy breakfast and relax until it is time for airport transfer. You will be dropped off at the airport in time for your departure, concluding your journey with unforgettable memories of Sri Lanka."
+    }
+  ]
+},
+
+{
+  "slug": "06-days-05-nights-round-tour",
+  "name": "06 Days 05 Nights",
+  "description": "A 6-day guided round tour across Sri Lanka covering cultural landmarks, scenic train journeys, wildlife safaris, beaches, waterfalls, and city experiences with airport pickup and drop-off.",
+  "image": "/images/tours/round-tours/06-days-05-nights.jpg",
+  "type": "round tour",
+  "location": "Kandy, Nuwara Eliya, Ella, Udawalawe, Mirissa, Bentota, Colombo, Sri Lanka",
+  "duration": "6 Days 5 Nights",
+  "best_time": "Any time of the year",
+  "pickup": "Airport–Hotel–Tour–Airport",
+  "cost": "Contact us for details",
+  "highlights": [
+    "Pinnawala Elephant Orphanage experience",
+    "Temple of the Tooth Relic & cultural show in Kandy",
+    "Scenic train ride through tea plantations",
+    "Horton Plains – World’s End & Bakers Falls",
+    "Nine Arch Bridge and Ella viewpoints",
+    "Udawalawe off-road safari",
+    "Mirissa whale watching tour",
+    "Madu River boat safari & Bentota turtle hatchery",
+    "Colombo city highlights"
+  ],
+  "itinerary": [
+    {
+      "description": "This 6-day Sri Lanka journey begins and concludes at Colombo Airport, guiding you through Kandy and several other remarkable destinations across the island. The tour includes hotel stays, an experienced driver, required insurance, breakfast meals, transportation, and more, delivering a smooth and memorable travel experience."
+    },
+    {
+      "day": 1,
+      "title": "Arrival (CMB) – Pinnawala – Kandy",
+      "description": "Upon landing, you will be warmly greeted by our tour chauffeur and driven towards Kandy. On the way, stop at Pinnawala Elephant Orphanage to observe the bathing and milk feeding of baby elephants. Later, enjoy a city tour in Kandy including a visit to the Temple of the Sacred Tooth Relic (Dalada Maligawa), one of the most revered Buddhist sites, which shelters the sacred Buddha tooth relic. In the evening, witness a traditional cultural dance performance. Overnight in Kandy."
+    },
+    {
+      "day": 2,
+      "title": "Kandy – Nuwara Eliya",
+      "description": "After breakfast, explore the Royal Botanical Garden in Peradeniya. Continue to Peradeniya Railway Station to board a scenic train journey through misty tea estates toward Nuwara Eliya. Your chauffeur will greet you at Nanuoya Station. Later, enjoy time around Gregory Lake with a relaxing lakeside walk in the cool climate. Overnight in Nuwara Eliya."
+    },
+    {
+      "day": 3,
+      "title": "Nuwara Eliya – Horton Plains – Ella",
+      "description": "Start early with a packed breakfast and travel to Horton Plains National Park for a short trek to World’s End and Bakers Falls. After the hike, return to the hotel for a brief rest before heading to Ella. En route, admire scenic waterfalls and tea plantations. Later, visit the iconic Nine Arch Bridge in Ella. Evening at leisure. Overnight in Ella."
+    },
+    {
+      "day": 4,
+      "title": "Ella – Udawalawe – Mirissa",
+      "description": "Begin the day with a trek to Little Adam’s Peak. Afterward, travel toward Mirissa, stopping at Udawalawe National Park. From 3:00 PM to 6:00 PM, enjoy a 4x4 jeep safari to spot wild elephants and other animals in their natural habitat. After the safari, continue to Mirissa and check into the hotel. Overnight in Mirissa."
+    },
+    {
+      "day": 5,
+      "title": "Mirissa – Bentota – Colombo",
+      "description": "Early morning whale watching excursion from Mirissa Beach. After the boat tour, begin the drive toward Colombo with stops at the Bentota turtle hatchery and the Madu River for a scenic boat safari among mangroves and island landscapes. Arrive in Colombo in the evening, check into the hotel, and enjoy the city nightlife. Overnight in Colombo."
+    },
+    {
+      "day": 6,
+      "title": "Colombo – Departure",
+      "description": "After breakfast, explore Colombo city including the National Museum, Gangarama Temple, and other notable attractions. At the end of the tour, transfer to the airport in time for your departure flight."
+    }
+  ]
+},
+
+{
+  "slug": "07-days-06-nights-round-tour",
+  "name": "07 Days 06 Nights",
+  "description": "A 7-day guided round tour of Sri Lanka featuring cultural heritage sites, tea highlands, beaches, wildlife safaris, scenic train rides, and coastal exploration with airport pickup and drop-off.",
+  "image": "/images/tours/round-tours/07-days-06-nights.jpg",
+  "type": "round tour",
+  "location": "Kandy, Nuwara Eliya, Ella, Yala / Udawalawe, Mirissa, Galle, Colombo, Sri Lanka",
+  "duration": "7 Days 6 Nights",
+  "best_time": "Any time of the year",
+  "pickup": "Airport–Hotel–Tour–Airport",
+  "cost": "Contact us for details",
+  "highlights": [
+    "Pinnawala Elephant experience",
+    "Temple of the Sacred Tooth Relic",
+    "Peradeniya Botanical Gardens & Gem museum",
+    "Scenic train through hill country",
+    "Little Adam’s Peak & Nine Arches Bridge",
+    "Yala or Udawalawe jeep safari",
+    "Mirissa whale watching",
+    "Galle Fort & lighthouse visit",
+    "Beach relaxation and coastal views"
+  ],
+  "itinerary": [
+    {
+      "description": "This 7-day Sri Lanka experience starts and ends at Colombo Airport, taking you across Kandy and several other unforgettable destinations. The tour includes hotel accommodation, a professional driver, required insurance, daily breakfast, comfortable transport, and more for a seamless travel experience."
+    },
+    {
+      "day": 1,
+      "title": "Arrival (CMB) – Pinnawala – Kandy",
+      "description": "Upon landing at Bandaranaike International Airport (CMB), you will be welcomed by our tour chauffeur at the arrival greeting point. Travel to Kandy, stopping on the way at Pinnawala Elephant Orphanage or Millennium Elephant Foundation. Continue to Kandy and check in to the hotel. Overnight in Kandy."
+    },
+    {
+      "day": 2,
+      "title": "Kandy – Nuwara Eliya",
+      "description": "After breakfast, begin a city tour including the Temple of the Sacred Tooth Relic (Dalada Maligawa), one of the most treasured spiritual sites in Sri Lanka known for housing the sacred Buddha tooth relic. Continue to the Royal Botanical Gardens in Peradeniya followed by a visit to a gem museum. After the city tour, drive toward Nuwara Eliya, often referred to as ‘Little England,’ stopping at a tea factory and plantation along the way (approx. 2-hour transfer). In the afternoon, visit Gregory Park and relax in the pleasant cool climate. Overnight in Nuwara Eliya."
+    },
+    {
+      "day": 3,
+      "title": "Nuwara Eliya – Ella",
+      "description": "In the morning, board a scenic train ride through lush tea estates to Ella. Upon arrival at Ella train station, your driver will meet you and transfer you to your hotel. Enjoy an afternoon tour including Little Adam’s Peak, Nine Arches Bridge, and Ella View Point. Unwind in the evening surrounded by misty mountain air. Overnight in Ella."
+    },
+    {
+      "day": 4,
+      "title": "Ella – Yala or Udawalawe",
+      "description": "After breakfast, proceed to Yala or Udawalawe (approx. 2.5-hour drive). Check into your hotel and rest briefly. Around 3:00 PM, begin an exciting jeep safari through Yala or Udawalawe National Park to see wild elephants and other wildlife. Safari concludes around 6:00 PM. Overnight in Yala or Udawalawe."
+    },
+    {
+      "day": 5,
+      "title": "Yala – Mirissa",
+      "description": "After breakfast, depart for Mirissa (approx. 3.5-hour drive). In the afternoon, visit Coconut Tree Hill and Parrot Rock Bridge before spending leisure time along the popular Mirissa Beach. Enjoy the coastal atmosphere and a seafood dinner by the shore. Overnight in Mirissa."
+    },
+    {
+      "day": 6,
+      "title": "Mirissa – Galle",
+      "description": "Start early with a whale watching boat excursion from Mirissa. After the tour, continue to Galle to explore the historic Galle Fort, National Maritime Museum, and the iconic Galle Lighthouse. Check into your hotel in the evening. Overnight in Galle."
+    },
+    {
+      "day": 7,
+      "title": "Galle – Colombo – Departure",
+      "description": "After breakfast, return to Colombo or Negombo. Based on your flight schedule, your driver will transfer you to the airport for departure."
+    }
+  ]
+}
+,
+
+{
+  "slug": "08-days-07-nights-round-tour",
+  "name": "08 Days 07 Nights",
+  "description": "An 8-day round tour across Sri Lanka covering ancient cities, cultural landmarks, hill country landscapes, wildlife, beaches, scenic train journeys, and ocean experiences with airport pickup and drop-off.",
+  "image": "/images/tours/round-tours/08-days-07-nights.jpg",
+  "type": "round tour",
+  "location": "Kandy, Sigiriya, Dambulla, Anuradhapura, Polonnaruwa, Nuwara Eliya, Ella, Mirissa, Colombo, Sri Lanka",
+  "duration": "8 Days 7 Nights",
+  "best_time": "Any time of the year",
+  "pickup": "Airport–Hotel–Tour–Airport",
+  "cost": "Contact us for details",
+  "highlights": [
+    "Elephant experience in Pinnawala or Millennium Foundation",
+    "Dambulla Cave & Golden Temple",
+    "Sigiriya Rock Fortress & village experience",
+    "Ancient cities of Polonnaruwa & Anuradhapura",
+    "Temple of the Sacred Tooth Relic",
+    "Scenic hill country train ride",
+    "Gregory Park and botanical gardens",
+    "Ella viewpoints & Nine Arch Bridge",
+    "Mirissa beach life and whale watching"
+  ],
+  "itinerary": [
+    {
+      "description": "This 8-day journey begins and ends at Colombo Airport, taking you through 9+ remarkable destinations across Sri Lanka. The package includes hotel accommodation, an experienced chauffeur, insurance, daily breakfast, comfortable transport, and a fully guided travel experience."
+    },
+    {
+      "day": 1,
+      "title": "Airport – Pinnawala – Dambulla – Sigiriya",
+      "description": "On arrival at Bandaranaike International Airport (CMB), you will be greeted by your chauffeur. Proceed to Pinnawala Elephant Orphanage or Millennium Elephant Foundation. Continue to Dambulla to explore the Royal Cave Temple and Golden Temple. Later, transfer to Sigiriya and check in to your hotel for the night."
+    },
+    {
+      "day": 2,
+      "title": "Sigiriya – Polonnaruwa – Sigiriya",
+      "description": "After breakfast, visit the world-famous Sigiriya Rock Fortress, one of Sri Lanka’s most iconic landmarks. Later, experience a local village tour to explore rural life and traditions. Continue to Polonnaruwa for an ancient city sightseeing tour. After the tour, return to your hotel in Sigiriya for overnight stay."
+    },
+    {
+      "day": 3,
+      "title": "Sigiriya – Anuradhapura",
+      "description": "After breakfast, transfer to Anuradhapura and begin an ancient city exploration including Jaya Sri Maha Bodhi, Ruwanwelisaya, and other heritage sites. After the tour, check in to the hotel in Anuradhapura and enjoy a relaxed evening."
+    },
+    {
+      "day": 4,
+      "title": "Anuradhapura – Kandy",
+      "description": "After breakfast, travel to Kandy with a stop at a spice and herbal garden in Matale. Arrive in Kandy during the afternoon and check in to your hotel. In the evening, enjoy a cultural Kandyan dance performance showcasing traditional Sri Lankan arts. Overnight stay in Kandy."
+    },
+    {
+      "day": 5,
+      "title": "Kandy – Nuwara Eliya",
+      "description": "After breakfast, begin a city tour of Kandy including a visit to the Temple of the Sacred Tooth Relic (Dalada Maligawa) and the Royal Botanical Gardens in Peradeniya. Continue to Peradeniya train station for a scenic train ride through misty tea plantations to Nanuoya. Your chauffeur will meet you at the station. Visit Gregory Park and unwind in the cool hill climate. Overnight in Nuwara Eliya."
+    },
+    {
+      "day": 6,
+      "title": "Nuwara Eliya – Ella",
+      "description": "After breakfast, travel to Ella via the Hakgala Botanical Garden. In the afternoon, explore Little Adam’s Peak, the famous Nine Arch Bridge, and the panoramic Ella Rock viewpoint. Overnight stay in Ella."
+    },
+    {
+      "day": 7,
+      "title": "Ella – Mirissa",
+      "description": "After breakfast, proceed to Mirissa. Visit Coconut Tree Hill and Parrot Rock Bridge, enjoy leisure time by the beach, and later experience the vibrant coastal nightlife. Overnight in Mirissa."
+    },
+    {
+      "day": 8,
+      "title": "Mirissa – Colombo – Airport",
+      "description": "Start early with a whale watching boat excursion in Mirissa. After the tour, continue toward the airport with a stop in Colombo for sightseeing and a shopping experience before your departure."
+    }
+  ]
+},
+
+{
+  "slug": "14-days-13-nights-round-tour",
+  "name": "14 Days 13 Nights",
+  "description": "A 14-day round tour discovering Sri Lanka’s cultural heritage, coastal beauty, wildlife, hill country, beaches, and historic landmarks with airport pickup and drop-off.",
+  "image": "/images/tours/round-tours/14-days-13-nights.jpg",
+  "type": "round tour",
+  "location": "Sigiriya, Trincomalee, Anuradhapura, Kandy, Nuwara Eliya, Ella, Yala/Udawalawe, Mirissa, Galle, Colombo, Sri Lanka",
+  "duration": "14 Days 13 Nights",
+  "best_time": "Any time of the year",
+  "pickup": "Airport–Hotel–Tour–Airport",
+  "cost": "Contact us for details",
+  "highlights": [
+    "Elephant sanctuary experience",
+    "Ancient rock and cave temples",
+    "Coastal sightseeing and whale watching",
+    "Scenic train ride through tea plantations",
+    "Wildlife safari in national parks",
+    "Colonial fort tours",
+    "Cultural show and sacred temple visits",
+    "Beach relaxation and seafood experience"
+  ],
+  "itinerary": [
+    {
+      "description": "This 14-day experience begins and ends at Colombo International Airport, covering 11+ remarkable destinations across Sri Lanka. The package includes hotel accommodation, an experienced chauffeur, insurance, daily breakfast, and comfortable transport throughout the journey."
+    },
+    {
+      "day": 1,
+      "title": "Arrival – Pinnawala – Dambulla – Sigiriya",
+      "description": "On arrival at the airport, you will be welcomed by your chauffeur at the arrivals greeting area. Transfer to Pinnawala and visit the Elephant Orphanage or Millennium Elephant Foundation. Continue to Dambulla to explore the historic Rock Cave Temple. In the evening, reach your hotel in Sigiriya for overnight stay."
+    },
+    {
+      "day": 2,
+      "title": "Sigiriya – Trincomalee",
+      "description": "After breakfast, climb Sigiriya Rock or Pidurangala Rock for panoramic views. Later, transfer to Trincomalee and enjoy leisurely beach time. Overnight stay in Trincomalee."
+    },
+    {
+      "day": 3,
+      "title": "Trincomalee",
+      "description": "After breakfast, explore Trincomalee including Koneswaram Temple on Swami Rock cliff, the Trincomalee War Cemetery, Kinniya Hot Springs, and the historic Fort Frederick. Return to your hotel for overnight stay."
+    },
+    {
+      "day": 4,
+      "title": "Trincomalee – Anuradhapura",
+      "description": "After breakfast, travel to Anuradhapura and check in to the hotel. In the afternoon, begin a sacred city tour covering key sites including Ruwanwelisaya, Jaya Sri Maha Bodhi, Isurumuniya Temple, Jethawanaramaya Stupa, and more. Overnight stay in Anuradhapura."
+    },
+    {
+      "day": 5,
+      "title": "Anuradhapura – Kandy",
+      "description": "After breakfast, transfer to Kandy. In the evening, enjoy a vibrant cultural dance performance at the Kandy Lake Club featuring traditional Sri Lankan music and dance. Overnight stay in Kandy."
+    },
+    {
+      "day": 6,
+      "title": "Kandy",
+      "description": "After breakfast, tour Kandy city including the Temple of the Sacred Tooth Relic, Royal Botanical Gardens Peradeniya, and the Kandy Garrison Cemetery. Return to the hotel for overnight stay."
+    },
+    {
+      "day": 7,
+      "title": "Kandy – Nuwara Eliya",
+      "description": "After breakfast, travel to Nuwara Eliya through tea-covered landscapes. Visit the tea factory and plantations, enjoy fresh Ceylon tea, and stop at the Royal Botanical Gardens. Later, visit Gregory Lake and relax in the cool climate. Overnight stay in Nuwara Eliya."
+    },
+    {
+      "day": 8,
+      "title": "Nuwara Eliya – Ella",
+      "description": "Board a scenic train from Nanu Oya to Ella. Your chauffeur will meet you at Ella station. Enjoy lunch at Café Chill followed by sightseeing including Nine Arch Bridge, Little Adam’s Peak, and Ravana’s Cave. Check in to your hotel in Ella for overnight stay."
+    },
+    {
+      "day": 9,
+      "title": "Ella – Yala or Udawalawe",
+      "description": "After breakfast, drive toward Yala or Udawalawe, stopping at Ravana Waterfall. In the afternoon, enjoy a 4x4 jeep safari in Yala or Udawalawe National Park from 3:00 PM to 6:00 PM. After the safari, check in to your hotel for overnight stay."
+    },
+    {
+      "day": 10,
+      "title": "Yala or Udawalawe – Mirissa",
+      "description": "Travel to Mirissa and enjoy a taste of traditional buffalo milk curd. Check in to your hotel and relax by the beach for the rest of the day. Overnight stay in Mirissa."
+    },
+    {
+      "day": 11,
+      "title": "Mirissa",
+      "description": "Early morning, set out for a 4-hour whale watching excursion. After returning, enjoy free time by the beach and a seafood dinner in the evening. Overnight stay in Mirissa."
+    },
+    {
+      "day": 12,
+      "title": "Mirissa – Galle",
+      "description": "After breakfast, head to Galle and visit the Galle Fort, Lighthouse, and Dutch Hospital Shopping Precinct. Overnight stay in Galle."
+    },
+    {
+      "day": 13,
+      "title": "Galle – Colombo",
+      "description": "After breakfast, travel to Colombo. In the afternoon, enjoy a city tour including Jami Ul-Alfar Mosque, Gangaramaya Temple, Galle Face Green, Colombo National Museum, and One Galle Face Mall. Check in to your hotel for overnight stay."
+    },
+    {
+      "day": 14,
+      "title": "Colombo – Departure",
+      "description": "After breakfast, transfer to the airport in time for your departure, concluding your tour with lasting Sri Lankan travel memories."
+    }
+  ]
+}
+,
+
+{
+  "slug": "20-days-19-nights-round-tour",
+  "name": "20 Days 19 Nights",
+  "description": "A 20-day immersive journey across Sri Lanka covering UNESCO heritage sites, beaches, wildlife, cultural landmarks, adventure activities, and scenic hill country experiences with airport transfers included.",
+  "image": "/images/tours/round-tours/20-days-19-nights.jpg",
+  "type": "round tour",
+  "location": "Negombo, Pinnawala, Kandy, Sigiriya, Anuradhapura, Trincomalee, Pasikuda, Nuwara Eliya, Ella, Yala, Tangalle, Mirissa, Galle, Hikkaduwa, Bentota, Colombo, Sri Lanka",
+  "duration": "20 Days 19 Nights",
+  "best_time": "Any time of the year",
+  "pickup": "Airport–Hotel–Tour–Airport",
+  "cost": "Contact us for details",
+  "highlights": [
+    "Multiple UNESCO World Heritage sites",
+    "Wildlife safaris and whale watching",
+    "Ancient temples and cultural experiences",
+    "Scenic train ride and tea plantations",
+    "Water sports, kayaking, and river safari",
+    "Turtle conservation visit",
+    "Beach relaxation and coastal exploration",
+    "Hill country landscapes and hiking trails"
+  ],
+  "itinerary": [
+    {
+      "description": "You don’t require a full month to experience the best of Sri Lanka. This 20-day itinerary covers nearly all major UNESCO sites, ancient temples, adventure activities like cycling, kayaking, beach experiences, wildlife safaris, and scenic highland views. The package includes hotel accommodation, driver service, insurance, daily breakfast, and comfortable transport throughout the journey."
+    },
+    {
+      "day": 1,
+      "title": "Arrival – Negombo",
+      "description": "On arrival at Colombo Bandaranaike International Airport, your driver will welcome you and transfer you to your hotel in Negombo. After resting, visit Negombo beach area with seaside dining, refreshments, and a chance to engage with the local atmosphere and coastal lifestyle."
+    },
+    {
+      "day": 2,
+      "title": "Negombo – Pinnawala – Kandy",
+      "description": "After breakfast, visit Pinnawala Elephant Orphanage or Millennium Elephant Foundation to observe elephants roaming freely within a coconut estate. Guests may join Elephant Walks or volunteer programs. In the afternoon, transfer to Kandy. In the evening, attend the cultural dance show at Kandy Lake Club featuring Sri Lankan traditional performances. Overnight stay in Kandy."
+    },
+    {
+      "day": 3,
+      "title": "Kandy",
+      "description": "Following breakfast, explore Kandy, including the Temple of the Sacred Tooth Relic, Royal Botanical Gardens – Peradeniya, and Kandy Garrison Cemetery. Return to hotel afterward."
+    },
+    {
+      "day": 4,
+      "title": "Kandy – Dambulla – Sigiriya",
+      "description": "After breakfast, visit the ancient Dambulla Royal Cave Temple featuring historic murals and Buddha statues. In the afternoon, hike Sigiriya Rock or Pidurangala Rock for panoramic views. Overnight stay in Sigiriya."
+    },
+    {
+      "day": 5,
+      "title": "Sigiriya – Mihintale – Anuradhapura",
+      "description": "Begin the day with a visit to Mihintale Rock, climbing 1,840 ancient steps to reach the sacred summit. Later, continue to Anuradhapura, one of Sri Lanka’s ancient capitals. Check in to hotel and relax for the evening."
+    },
+    {
+      "day": 6,
+      "title": "Anuradhapura – Trincomalee",
+      "description": "Visit sacred sites in Anuradhapura including Ruwanwelisaya, Jaya Sri Maha Bodhi, Isurumuniya Temple, Jethawanaramaya Stupa, and more. After the city tour, travel to Trincomalee. Check in at the hotel, relax by the beach, and stay overnight."
+    },
+    {
+      "day": 7,
+      "title": "Trincomalee",
+      "description": "Explore Trincomalee, including Koneswaram Temple on Swami Rock cliff, Trincomalee War Cemetery, Kinniya Hot Springs, and historic Fort Frederick. Return to hotel after sightseeing."
+    },
+    {
+      "day": 8,
+      "title": "Trincomalee – Pasikuda",
+      "description": "Transfer to the coastal destination of Pasikuda, known for its curved bay, clear shallow waters, and sandy shoreline. Visit Marble Beach and Kalkudah Beach for relaxing seaside views."
+    },
+    {
+      "day": 9,
+      "title": "Pasikuda – Nuwara Eliya",
+      "description": "Travel to Nuwara Eliya. Visit Victoria Park for its lake views and birdlife, followed by Gregory Lake for boat and pony rides in the cool climate. Check in to your hotel and enjoy the evening."
+    },
+    {
+      "day": 10,
+      "title": "Nuwara Eliya – Horton Plains – Nuwara Eliya",
+      "description": "Early morning drive to Horton Plains National Park with a packed breakfast. Explore its forests, cliffs, plains, and wildlife. Return to hotel, relax, and later visit Pedro Tea Factory, Lover’s Leap Waterfall, and Seetha Amman Temple. Overnight stay in Nuwara Eliya."
+    },
+    {
+      "day": 11,
+      "title": "Nuwara Eliya – Ella",
+      "description": "Take a scenic train from Nanu Oya to Ella. Upon arrival, enjoy lunch at Café Chill. Visit Nine Arch Bridge and Little Adam’s Peak. Check in to hotel in Ella for overnight stay."
+    },
+    {
+      "day": 12,
+      "title": "Ella – Yala",
+      "description": "After breakfast, drive to Yala, stopping at Ravana Waterfall en route. Check in to hotel and relax for the night."
+    },
+    {
+      "day": 13,
+      "title": "Yala",
+      "description": "Begin a full-day 4x4 jeep safari in Yala National Park starting at 05:30 AM and concluding around 6:00 PM, observing wildlife with an experienced safari guide."
+    },
+    {
+      "day": 14,
+      "title": "Yala – Tissamaharama – Tangalle",
+      "description": "Visit Tissa Wewa reservoir and Tissamaharama Raja Maha Vihara temple. Continue to Tangalle and enjoy buffalo milk curd tasting. Check in to hotel and relax by the beach."
+    },
+    {
+      "day": 15,
+      "title": "Tangalle",
+      "description": "Spend the day at Tangalle Beach. Optional visits include Parewella Natural Swimming Area, dining along the shore, and Tangalle Lighthouse to explore local history."
+    },
+    {
+      "day": 16,
+      "title": "Tangalle – Mirissa",
+      "description": "Travel to Mirissa and visit Coconut Tree Hill and Parrot Rock Bridge. Spend the evening on the beach with seafood dining. Overnight stay in Mirissa."
+    },
+    {
+      "day": 17,
+      "title": "Mirissa – Galle – Hikkaduwa",
+      "description": "Start the day with a 4-hour whale-watching cruise. Continue to Galle to visit Galle Fort, Lighthouse, and Dutch Hospital Shopping Precinct. Transfer to Hikkaduwa and relax by the beach in the evening."
+    },
+    {
+      "day": 18,
+      "title": "Hikkaduwa – Bentota – Colombo",
+      "description": "Proceed to Bentota for a Madu Ganga River Safari through mangroves and waterways. Visit Bentota Turtle Hatchery to learn about endangered turtles. Later, drive to Colombo and check in to hotel."
+    },
+    {
+      "day": 19,
+      "title": "Colombo",
+      "description": "City tour of Colombo including Jami Ul-Alfar Mosque, Gangaramaya Temple, Galle Face Green, Colombo National Museum, and One Galle Face Mall. Return to hotel afterward."
+    },
+    {
+      "day": 20,
+      "title": "Colombo – Departure",
+      "description": "Transfer to the airport based on flight timing. Wishing you an unforgettable Sri Lanka journey filled with great memories."
+    }
+  ]
+}
+,
+
+{
+  "slug": "honeymoon-14-days-13-nights",
+  "name": "Honeymoon Tour 14 Days 13 Nights",
+  "description": "A romantic 14-day honeymoon journey across Sri Lanka featuring beaches, scenic train rides, cultural heritage, wildlife safari, hill country landscapes, and coastal sunsets with private transport and hotel stays.",
+  "image": "/images/tours/round-tours/14-days-13-hony-nights.jpg",
+  "type": "round tour",
+  "location": "Negombo, Colombo, Kandy, Dambulla, Sigiriya, Polonnaruwa, Anuradhapura, Trincomalee, Pasikuda, Nuwara Eliya, Ella, Udawalawe, Mirissa, Galle, Sri Lanka",
+  "duration": "14 Days 13 Nights",
+  "best_time": "Any time of the year",
+  "pickup": "Airport–Hotel–Tour–Airport",
+  "cost": "Contact us for details",
+  "highlights": [
+    "Romantic beaches and sunsets",
+    "Scenic train ride through tea hills",
+    "Wildlife safari in Udawalawe",
+    "UNESCO cultural heritage sites",
+    "Whale watching experience",
+    "Couple-friendly leisure and dining experiences"
+  ],
+  "itinerary": [
+    {
+      "description": "A 14-day honeymoon escape beginning and ending at Colombo Airport, covering 13+ destinations including beaches, cultural landmarks, hill country, romantic viewpoints, wildlife and scenic train journeys. The package includes hotel stays, experienced driver, transport, insurance and daily breakfast."
+    },
+    {
+      "day": 1,
+      "title": "Arrival – Negombo",
+      "description": "Upon arriving at Colombo Bandaranaike International Airport, your chauffeur will welcome you and drive you to Negombo. Relax after check-in, then explore Negombo beach with seaside dining, refreshing drinks, and a glimpse into coastal local lifestyle."
+    },
+    {
+      "day": 2,
+      "title": "Negombo – Colombo",
+      "description": "After breakfast, travel to Colombo. Later, enjoy a city tour covering Jami Ul-Alfar Mosque, Gangaramaya Temple, Galle Face Green, Colombo National Museum and One Galle Face Mall. Overnight stay in Colombo."
+    },
+    {
+      "day": 3,
+      "title": "Colombo – Kandy",
+      "description": "Proceed to Kandy after breakfast. Visit the Temple of the Sacred Tooth Relic. In the evening, attend Kandy Lake Club cultural performance featuring traditional Sri Lankan dance and music. Overnight stay in Kandy."
+    },
+    {
+      "day": 4,
+      "title": "Kandy – Dambulla – Sigiriya",
+      "description": "Visit Royal Botanical Gardens in Peradeniya and a spice garden in Matale. Continue to Dambulla to explore the cave temple complex. Later, head to Sigiriya and enjoy a village experience including a bullock cart ride. Check-in for the night in Sigiriya."
+    },
+    {
+      "day": 5,
+      "title": "Sigiriya – Polonnaruwa – Sigiriya",
+      "description": "Climb Sigiriya Rock or Pidurangala Rock for scenic views. Afterwards, travel to the ancient kingdom of Polonnaruwa for historic explorations. Return to your hotel in Sigiriya and relax for the night."
+    },
+    {
+      "day": 6,
+      "title": "Sigiriya – Mihintale – Anuradhapura",
+      "description": "Climb the historical Mihintale steps (1,840 stone stairs). Later, continue to Anuradhapura, an ancient capital. Check-in to hotel and unwind for the evening."
+    },
+    {
+      "day": 7,
+      "title": "Anuradhapura – Trincomalee",
+      "description": "Explore sacred landmarks including Ruwanwelisaya, Jaya Sri Maha Bodhi, Isurumuniya and Jethawanaramaya Stupa. Later, transfer to Trincomalee, relax by the ocean and check in for the night."
+    },
+    {
+      "day": 8,
+      "title": "Trincomalee",
+      "description": "Visit Koneswaram Temple on Swami Rock, Trincomalee War Cemetery, Kinniya Hot Springs and historic Fort Frederick. Return to hotel after the tour."
+    },
+    {
+      "day": 9,
+      "title": "Trincomalee – Pasikuda",
+      "description": "Travel to the coastal paradise of Pasikuda. Visit Marble Beach and Kalkudah Beach, unwind by the calm shoreline and enjoy an overnight stay at Pasikuda Beach."
+    },
+    {
+      "day": 10,
+      "title": "Pasikuda – Nuwara Eliya",
+      "description": "Proceed to Nuwara Eliya. Visit Victoria Park for nature views and birdlife, then enjoy Gregory Lake with optional pony or boat rides. Check in to your hotel and relax in the cool mountain climate."
+    },
+    {
+      "day": 11,
+      "title": "Nuwara Eliya – Ella",
+      "description": "Take the scenic train from Nanu Oya to Ella. Upon arrival, enjoy lunch at a local café and later visit Nine Arch Bridge, Little Adam’s Peak and Ravana’s Cave. Check-in to your hotel in Ella."
+    },
+    {
+      "day": 12,
+      "title": "Ella – Udawalawe",
+      "description": "Travel to Udawalawe with a stop at Ravana Waterfall. In the afternoon, enjoy a 4x4 safari tour in Udawalawe National Park from 3:00 PM to 6:00 PM. End the day at your safari hotel."
+    },
+    {
+      "day": 13,
+      "title": "Udawalawe – Mirissa",
+      "description": "After breakfast, continue to Mirissa. Try authentic buffalo milk curd, then visit Coconut Tree Hill and Parrot Rock Bridge. Enjoy a romantic beach evening with seafood dining."
+    },
+    {
+      "day": 14,
+      "title": "Mirissa – Galle – Departure",
+      "description": "Start the morning with a 4-hour whale watching excursion. Later, explore Galle Fort, the Lighthouse and Dutch Hospital precinct. After sightseeing, transfer to the airport in time for departure."
+    }
+  ]
+},
+
+{
+  "slug": "wildlife-eco-tour-08-days-07-nights",
+  "name": "Wild Life & Eco Tour 08 Days 07 Nights",
+  "description": "Explore the wildlife and natural wonders of Sri Lanka with an 8-day eco-tour including national parks, mountain ranges, tea plantations, cultural heritage, and endemic wildlife encounters. The tour includes hotel stays, an expert driver, transport, insurance, and breakfast.",
+  "image": "/images/tours/round-tours/08-days-07-wild-nights.jpg",
+  "type": "round tour",
+  "location": "Negombo, Pinnawala, Sigiriya, Dambulla, Matale, Kandy, Knuckles Mountain Range, Nuwara Eliya, Horton Plains, Udawalawe National Park, Sri Lanka",
+  "duration": "8 Days 7 Nights",
+  "best_time": "Any time of the year",
+  "pickup": "Airport–Hotel–Tour–Airport",
+  "cost": "Contact us for details",
+  "highlights": [
+    "Elephant orphanage visit at Pinnawala",
+    "Sigiriya Rock and village tour with elephant-back safari",
+    "Dambulla Rock Cave Temple exploration",
+    "Spice garden and cooking demonstration in Matale",
+    "Knuckles Mountain Range nature trek",
+    "Nuwara Eliya scenic tour with tea plantations and lake activities",
+    "Horton Plains National Park trek including World’s End and Baker’s Falls",
+    "Udawalawe National Park safari for elephants and endemic wildlife"
+  ],
+  "itinerary": [
+    {
+      "description": "Explore Sri Lanka’s rich wildlife, forests, and mountain ranges in this 8-day tour. Encounter elephants, endemic birds, and mammals, experience cultural heritage, scenic landscapes, and enjoy eco-friendly adventures."
+    },
+    {
+      "day": 1,
+      "title": "Arrival – Pinnawala – Sigiriya",
+      "description": "Arrive at Bandaranaike International Airport and meet your Lanka Heaven Tours chauffeur. Transfer to Pinnawala to visit the Elephant Orphanage, observing and participating in elephant bathing and bottle-feeding sessions."
+    },
+    {
+      "day": 2,
+      "title": "Sigiriya Sightseeing",
+      "description": "Visit the UNESCO-listed Sigiriya Rock Fortress with its frescoes, gardens, and moats. Explore Habarana village with a bullock cart ride, boat ride, rural farming demonstration, authentic Sri Lankan lunch, and an elephant-back safari."
+    },
+    {
+      "day": 3,
+      "title": "Sigiriya – Dambulla – Matale – Kandy",
+      "description": "Visit Dambulla Rock Temple, the largest painted cave complex in the world. Continue to Matale to see a spice garden with cultivation and cooking demonstrations. Transfer to Kandy for an overnight stay."
+    },
+    {
+      "day": 4,
+      "title": "Kandy – Knuckles Mountain Range – Kandy",
+      "description": "Travel to the Knuckles Mountain Range, a strict nature reserve with rare endemic plants and unique biodiversity. Explore the highland terrain before returning to Kandy for the night."
+    },
+    {
+      "day": 5,
+      "title": "Kandy – Nuwara Eliya",
+      "description": "Proceed to Nuwara Eliya, a scenic hill country town. Tour tea plantations, golf courses, Hakgala Botanical Garden, Hindu temples, and the Pink Post Office. Evening leisure activities at Gregory Lake including water sports."
+    },
+    {
+      "day": 6,
+      "title": "Nuwara Eliya – Horton Plains – Nuwara Eliya",
+      "description": "Early morning visit to Horton Plains National Park with a breakfast pack. Hike to World’s End and Baker’s Falls, observing endemic wildlife such as Sambhur, leopards, and bear monkeys. Visit a New Zealand-style farm in Ambewela. Evening shopping in Nuwara Eliya town."
+    },
+    {
+      "day": 7,
+      "title": "Nuwara Eliya – Udawalawe National Park",
+      "description": "Travel to Udawalawe National Park. Enjoy an afternoon ½-day safari spotting elephants, deer, langurs, jackals, water birds, and peacocks in their natural habitat. Overnight stay near the park."
+    },
+    {
+      "day": 8,
+      "title": "Udawalawe National Park – Colombo / Airport",
+      "description": "Early morning wildlife jeep safari for bird watching and elephant spotting. After the safari, transfer to Colombo city or Bandaranaike International Airport for your departure."
+    }
+  ]
+}
+
+
+
+
+
 
 
 
