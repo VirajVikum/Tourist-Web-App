@@ -23,7 +23,7 @@
     <!-- Story Section -->
     <section class="max-w-6xl mx-auto px-6 py-16 grid md:grid-cols-2 gap-12">
         <div>
-            <h2 class="text-3xl font-bold text-orange-600 mb-4">Our Story</h2>
+            <h2 class="text-3xl font-bold text-blue-600 mb-4">Our Story</h2>
             <p class="text-gray-700 leading-relaxed">
                 TravelCo was founded with a passion for exploring the beauty of Sri Lanka and beyond. 
                 What started as a small group of adventurers soon became a dedicated travel service provider, 
@@ -43,17 +43,17 @@
     <!-- Highlights Section -->
     <section class="bg-white py-16">
         <div class="max-w-6xl mx-auto px-6">
-            <h2 class="text-3xl font-bold text-center text-orange-600 mb-10">Why Travel With Us?</h2>
+            <h2 class="text-3xl font-bold text-center text-blue-600 mb-10">Why Travel With Us?</h2>
             <div class="grid md:grid-cols-3 gap-8">
-                <div class="text-center p-6 bg-orange-50 rounded-2xl shadow-md hover:shadow-lg transition">
+                <div class="text-center p-6 bg-blue-50 rounded-2xl shadow-md hover:shadow-lg transition">
                     <h3 class="font-semibold text-lg text-gray-800">Personalized Itineraries</h3>
                     <p class="text-gray-600 mt-2">Tailored trips that suit your preferences and pace.</p>
                 </div>
-                <div class="text-center p-6 bg-orange-50 rounded-2xl shadow-md hover:shadow-lg transition">
+                <div class="text-center p-6 bg-blue-50 rounded-2xl shadow-md hover:shadow-lg transition">
                     <h3 class="font-semibold text-lg text-gray-800">Trusted Guides</h3>
                     <p class="text-gray-600 mt-2">Local experts who ensure safety and authenticity.</p>
                 </div>
-                <div class="text-center p-6 bg-orange-50 rounded-2xl shadow-md hover:shadow-lg transition">
+                <div class="text-center p-6 bg-blue-50 rounded-2xl shadow-md hover:shadow-lg transition">
                     <h3 class="font-semibold text-lg text-gray-800">24/7 Support</h3>
                     <p class="text-gray-600 mt-2">We’re always here — before, during, and after your journey.</p>
                 </div>
@@ -72,9 +72,9 @@
     </section>
 
     <!-- CTA -->
-    <section class="bg-orange-600 py-12 text-center text-white">
+    <section class="bg-white py-12 text-center text-white">
         <h2 class="text-3xl font-bold mb-4">Ready for Your Next Adventure?</h2>
-        <a href="#" class="bg-white text-orange-600 px-6 py-3 rounded-lg font-semibold shadow hover:bg-gray-100 transition">
+        <a href="#" class="bg-blue-400 text-white px-6 py-3 rounded-lg font-semibold shadow hover:bg-blue-600 transition">
             Discover Tours
         </a>
     </section>

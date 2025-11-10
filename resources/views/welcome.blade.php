@@ -14,18 +14,16 @@
     <div x-data="{ scrollAtTop: true }"
         x-init="window.addEventListener('scroll', () => { scrollAtTop = window.scrollY === 0 })">
 
-        <nav 
-    x-data="{ scrollY: 0 }"
-    x-init="window.addEventListener('scroll', () => { scrollY = window.scrollY })"
-    :class="(
-        '{{ Route::currentRouteName() }}' === 'home' 
-            ? (scrollY > 50 ? 'bg-white shadow-md' : 'bg-transparent') 
-            : 'bg-white shadow-md text-accent-content'
-    )"
-    class="fixed w-full z-50 transition-colors duration-500"
->
+        <nav x-data="{ open: false, scrollY: 0 }"
+     x-init="window.addEventListener('scroll', () => scrollY = window.scrollY)"
+     :class="scrollY > 50 ? 'bg-gray-800 shadow-md' : 'bg-transparent'"
+     class="fixed w-full z-1000 transition-colors duration-500">
+     
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div class="flex justify-between items-center h-16">
+            @php
+    $isHome = Route::currentRouteName() === 'home';
+@endphp
             <!-- Logo -->
             <div class="flex-shrink-0">
                 <a href="{{ route('home') }}">
@@ -33,32 +31,38 @@
                 </a>
             </div>
 
-            <!-- Navigation Links -->
-            @php
-    $isHome = Route::currentRouteName() === 'home';
-@endphp
+            <!-- Desktop Links -->
+            <div class="hidden md:flex space-x-4">
+                <a href="{{ route('home') }}" class="hover:text-blue-500 transition font-medium" :class="scrollY > 50 ? 'text-white' : 'text-white'">Home</a>
+                <a href="{{ route('discover') }}" class="hover:text-blue-500 transition font-medium" :class="scrollY > 50 ? 'text-white' : 'text-white'">Discover</a>
+                <a href="{{ route('about') }}" class="hover:text-blue-500 transition font-medium" :class="scrollY > 50 ? 'text-white' : 'text-white'">About</a>
+                <a href="{{ route('contact') }}" class="hover:text-blue-500 transition font-medium" :class="scrollY > 50 ? 'text-white' : 'text-white'">Contact</a>
+            </div>
 
-<div class="hidden md:flex space-x-4">
-    <a href="{{ route('home') }}" 
-       :class="{{ $isHome ? "scrollY > 50 ? 'text-gray-800' : 'text-white'" : "'text-gray-800'" }}"
-       class="hover:text-orange-500 transition font-medium">Home</a>
-
-    <a href="{{ route('discover') }}" 
-       :class="{{ $isHome ? "scrollY > 50 ? 'text-gray-800' : 'text-white'" : "'text-gray-800'" }}"
-       class="hover:text-orange-500 transition font-medium">Discover</a>
-
-    <a href="{{route('about')}}" 
-       :class="{{ $isHome ? "scrollY > 50 ? 'text-gray-800' : 'text-white'" : "'text-gray-800'" }}"
-       class="hover:text-orange-500 transition font-medium">About</a>
-
-    <a href="{{ route('contact') }}" 
-       :class="{{ $isHome ? "scrollY > 50 ? 'text-gray-800' : 'text-white'" : "'text-gray-800'" }}"
-       class="hover:text-orange-500 transition font-medium">Contact</a>
-</div>
-
+            <!-- Mobile hamburger -->
+            <div class="md:hidden">
+                <button @click="open = !open" class="text-black hover:text-blue-500 focus:outline-none">
+                    <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none"
+                         viewBox="0 0 24 24" stroke="currentColor">
+                        <path x-show="!open" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                              d="M4 6h16M4 12h16M4 18h16"/>
+                        <path x-show="open" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                              d="M6 18L18 6M6 6l12 12"/>
+                    </svg>
+                </button>
+            </div>
         </div>
     </div>
+
+    <!-- Mobile Menu -->
+    <div x-show="open" class="md:hidden bg-gray-800 shadow-md">
+        <a href="{{ route('home') }}" class="block px-4 py-2 text-white hover:bg-white">Home</a>
+        <a href="{{ route('discover') }}" class="block px-4 py-2 text-white hover:bg-white">Discover</a>
+        <a href="{{ route('about') }}" class="block px-4 py-2 text-white hover:bg-white">About</a>
+        <a href="{{ route('contact') }}" class="block px-4 py-2 text-white hover:bg-white">Contact</a>
+    </div>
 </nav>
+
 
 
 

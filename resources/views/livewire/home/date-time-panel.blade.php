@@ -3,7 +3,9 @@
         <div class="flex items-center justify-center space-x-8 sm:space-x-12">
             <!-- Sri Lanka Logo -->
             <div class="flex items-center space-x-3">
-                <img src="/images/sri-lanka-logo.png" alt="Sri Lanka" class="w-16 h-16 object-cover">
+                {{-- <img src="/images/sri-lanka-logo.png" alt="Sri Lanka" class="w-16 h-16 object-cover"> --}}
+                <img src="/images/sri-lanka-logo.png" alt="Sri Lanka" class="w-16 h-16 object-cover hidden sm:block">
+
                 <div class="flex flex-col items-center">
                     <div class="text-lg font-semibold font-serif pt-3">Sri</div>
                     <div class="text-lg font-semibold font-serif pt-1">Lanka</div>
@@ -27,16 +29,17 @@
             </div>
 
             <!-- Real-time Date -->
-            <div class="time flex flex-col text-gray-800 items-center">
-                <div class="date text-gray-700">
-                    <span class="date__day font-semibold"></span>,
-                    <span class="date__month"></span>
-                    <span class="date__date"></span>
-                </div>
-                <div class="mt-[-4px]">
-                    <span class="date__year"></span>
-                </div>
-            </div>
+            <div class="time flex flex-col text-gray-800 w-full items-center sm:w-auto text-center sm:text-left">
+    <div class="date text-gray-700">
+        <span class="date__day font-semibold"></span>,
+        <span class="date__month"></span>
+        <span class="date__date"></span>
+    </div>
+    <div class="mt-[-2px]">
+        <span class="date__year"></span>
+    </div>
+</div>
+
 
             <!-- Real-time Temperature -->
             <div id="weather-info" class="flex items-center space-x-2 text-gray-800">

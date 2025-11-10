@@ -3,7 +3,7 @@
     <div class="max-w-7xl mx-auto px-6 lg:px-8">
 
         <div class="text-center mb-16">
-            <h2 class="text-4xl md:text-5xl font-bold text-orange-700">Discover Sri Lanka</h2>
+            <h2 class="text-4xl md:text-5xl font-bold text-blue-500">Discover Sri Lanka</h2>
             <p class="text-gray-600 mt-3 text-lg">Explore the land, people, culture, and environment of Sri Lanka in depth.</p>
         </div>
 
@@ -34,10 +34,10 @@
 
                 <!-- Description -->
                 <div class="md:w-1/2 w-full text-center md:text-left">
-                    <h3 class="text-3xl font-bold text-orange-700 mb-4">{{ $topic['title'] }}</h3>
+                    <h3 class="text-3xl font-bold text-blue-400 mb-4">{{ $topic['title'] }}</h3>
                     <p class="text-gray-700 text-lg mb-4">{{ $topic['description'] }}</p>
                     <a href="{{ route('discover.show', $topic['key']) }}" 
-                        class="inline-block text-white bg-orange-600 px-6 py-3 rounded-full shadow-lg hover:bg-orange-700 transition">
+                        class="inline-block text-white bg-blue-600 px-6 py-3 rounded-full shadow-lg hover:bg-orange-700 transition">
                         Read More
                     </a>
                 </div>
