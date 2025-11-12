@@ -1,6 +1,6 @@
 <div class="bg-white py-4 shadow-md">
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-        <div class="flex items-center justify-center space-x-6 sm:space-x-12">
+        <div class="flex items-center justify-center space-x-5 sm:space-x-12">
             <!-- Sri Lanka Logo -->
             <div class="flex items-center space-x-3">
                 {{-- <img src="/images/sri-lanka-logo.png" alt="Sri Lanka" class="w-16 h-16 object-cover"> --}}
